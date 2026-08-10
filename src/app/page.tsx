@@ -1,31 +1,19 @@
-'use client'
+'use client';
+
+import HeroSection from '@/components/portfolio/HeroSection';
+import MarqueeSection from '@/components/portfolio/MarqueeSection';
+import AboutSection from '@/components/portfolio/AboutSection';
+import ServicesSection from '@/components/portfolio/ServicesSection';
+import ProjectsSection from '@/components/portfolio/ProjectsSection';
 
 export default function Home() {
   return (
-    <div style={{
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      justifyContent: 'center',
-      minHeight: '100vh',
-      gap: '2rem',
-      padding: '1rem'
-    }}>
-      <div style={{
-        position: 'relative',
-        width: '6rem',
-        height: '6rem'
-      }}>
-        <img
-          src="/logo.svg"
-          alt="Z.ai Logo"
-          style={{
-            width: '100%',
-            height: '100%',
-            objectFit: 'contain'
-          }}
-        />
-      </div>
-    </div>
-  )
+    <main className="bg-[#0C0C0C] min-h-screen" style={{ overflowX: 'clip' }}>
+      <HeroSection />
+      <MarqueeSection />
+      <AboutSection />
+      <ServicesSection />
+      <ProjectsSection />
+    </main>
+  );
 }
