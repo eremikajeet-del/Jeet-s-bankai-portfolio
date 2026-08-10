@@ -1,0 +1,1006 @@
+     1→     1→\# MASTER INSTRUCTION — PERSONALIZE THE ORIGINAL PORTFOLIO FOR ME
+     2→     2→
+     3→     3→I am going to provide an ORIGINAL WEBSITE/DESIGN SPECIFICATION immediately below this instruction.
+     4→     4→
+     5→     5→Your job is to take that exact website and turn it into MY personal portfolio.
+     6→     6→
+     7→     7→IMPORTANT:
+     8→     8→The ORIGINAL SPECIFICATION is the source of truth for the website's DESIGN and TECHNICAL IMPLEMENTATION.
+     9→     9→This MASTER INSTRUCTION is the source of truth for MY identity, content, positioning, projects, services, and contact information.
+    10→    10→
+    11→    11→DO NOT redesign the original website.
+    12→    12→
+    13→    13→\==================================================
+    14→    14→1\. CORE OBJECTIVE
+    15→    15→\==================================================
+    16→    16→
+    17→    17→Build this website as my personal portfolio.
+    18→    18→
+    19→    19→The main purpose of the portfolio is:
+    20→    20→
+    21→    21→\- Showcase my best work
+    22→    22→\- Demonstrate my skills
+    23→    23→\- Build credibility with potential clients
+    24→    24→\- Generate freelance leads
+    25→    25→\- Make it immediately clear what I do and who I can help
+    26→    26→
+    27→    27→The website should feel like a real, premium, professional personal portfolio — NOT a fictional template.
+    28→    28→
+    29→    29→\==================================================
+    30→    30→2\. MY IDENTITY
+    31→    31→\==================================================
+    32→    32→
+    33→    33→Name:
+    34→    34→Jeet
+    35→    35→
+    36→    36→Role:
+    37→    37→Full-Stack Developer
+    38→    38→
+    39→    39→Primary goal:
+    40→    40→Get freelance clients.
+    41→    41→
+    42→    42→Primary positioning:
+    43→    43→"I build digital experiences that help businesses grow."
+    44→    44→
+    45→    45→Supporting line:
+    46→    46→"Full-Stack Developer building high-quality websites and web applications for businesses."
+    47→    47→
+    48→    48→About copy:
+    49→    49→"I turn ideas into digital experiences that help businesses get online, reach more customers, and grow."
+    50→    50→
+    51→    51→\==================================================
+    52→    52→3\. MY SERVICES
+    53→    53→\==================================================
+    54→    54→
+    55→    55→My actual services are:
+    56→    56→
+    57→    57→1\. Website Development
+    58→    58→2\. E-commerce Development
+    59→    59→3\. SaaS / Web Applications
+    60→    60→4\. Restaurant & Business Websites
+    61→    61→
+    62→    62→My technology stack:
+    63→    63→
+    64→    64→\- React
+    65→    65→\- Next.js
+    66→    66→\- Related React/Next.js full-stack technologies when required
+    67→    67→
+    68→    68→Do not add technologies or services that I have not provided unless they are already technically required by the original implementation.
+    69→    69→
+    70→    70→\==================================================
+    71→    71→4\. MY TARGET CLIENTS
+    72→    72→\==================================================
+    73→    73→
+    74→    74→My current target clients are:
+    75→    75→
+    76→    76→\- Small businesses
+    77→    77→\- Local businesses
+    78→    78→\- Restaurants
+    79→    79→\- Cafés
+    80→    80→\- Similar businesses that need a strong online presence
+    81→    81→
+    82→    82→My work can also eventually serve:
+    83→    83→
+    84→    84→\- Startups
+    85→    85→\- SaaS companies
+    86→    86→\- E-commerce businesses
+    87→    87→\- More ambitious businesses
+    88→    88→\- International clients
+    89→    89→
+    90→    90→IMPORTANT:
+    91→    91→Do not expose my future ambitions unnecessarily in the public-facing portfolio.
+    92→    92→
+    93→    93→The website should focus on what I can honestly offer NOW.
+    94→    94→
+    95→    95→\==================================================
+    96→    96→5\. MY POSITIONING & BRAND VOICE
+    97→    97→\==================================================
+    98→    98→
+    99→    99→The portfolio should communicate that I care about BUSINESS OUTCOMES, not just making websites look good.
+   100→   100→
+   101→   101→My quality philosophy:
+   102→   102→
+   103→   103→A quality website should:
+   104→   104→
+   105→   105→\- Look good
+   106→   106→\- Work smoothly
+   107→   107→\- Perform well on mobile
+   108→   108→\- Be built with SEO in mind
+   109→   109→\- Capture customer attention
+   110→   110→\- Provide a good user experience
+   111→   111→\- Help a business generate opportunities
+   112→   112→
+   113→   113→My working philosophy:
+   114→   114→
+   115→   115→\- Quality over quantity
+   116→   116→\- Pay attention to details
+   117→   117→\- Listen to clients
+   118→   118→\- Continuously improve projects
+   119→   119→\- Suggest useful improvements when appropriate
+   120→   120→
+   121→   121→Tone:
+   122→   122→
+   123→   123→\- Premium
+   124→   124→\- Professional
+   125→   125→\- Confident
+   126→   126→\- Human
+   127→   127→\- Minimal
+   128→   128→\- Client-focused
+   129→   129→\- Honest
+   130→   130→
+   131→   131→Keep the copy SHORT.
+   132→   132→
+   133→   133→Do not turn the website into a long personal biography.
+   134→   134→
+   135→   135→\==================================================
+   136→   136→6\. CLAIMS & HONESTY
+   137→   137→\==================================================
+   138→   138→
+   139→   139→DO NOT invent or exaggerate anything.
+   140→   140→
+   141→   141→Do NOT claim:
+   142→   142→
+   143→   143→\- Years of experience
+   144→   144→\- Large client lists
+   145→   145→\- Awards
+   146→   146→\- Revenue
+   147→   147→\- Guaranteed results
+   148→   148→\- #1 Google rankings
+   149→   149→\- Fake testimonials
+   150→   150→\- Fake statistics
+   151→   151→\- Fake companies
+   152→   152→\- Fake clients
+   153→   153→\- Fake achievements
+   154→   154→\- Fake case studies
+   155→   155→\- Fake project results
+   156→   156→
+   157→   157→Do not describe personal/concept projects as paid client projects unless I explicitly confirm that they were client projects.
+   158→   158→
+   159→   159→The quality of my work should be the proof.
+   160→   160→
+   161→   161→\==================================================
+   162→   162→7\. HERO SECTION CONTENT
+   163→   163→\==================================================
+   164→   164→
+   165→   165→Replace all fictional "Jack" / "3D Creator" content with my personal information.
+   166→   166→
+   167→   167→The hero should communicate:
+   168→   168→
+   169→   169→Name:
+   170→   170→Jeet
+   171→   171→
+   172→   172→Role:
+   173→   173→Full-Stack Developer
+   174→   174→
+   175→   175→Positioning:
+   176→   176→"I build digital experiences that help businesses grow."
+   177→   177→
+   178→   178→Supporting direction:
+   179→   179→"Full-Stack Developer building high-quality websites and web applications for businesses."
+   180→   180→
+   181→   181→Do NOT use:
+   182→   182→
+   183→   183→\- "Jack"
+   184→   184→\- "3D Creator"
+   185→   185→\- Fictional biography
+   186→   186→\- Fictional experience
+   187→   187→\- Fictional achievements
+   188→   188→
+   189→   189→Keep the original hero's design EXACTLY as specified in the original prompt.
+   190→   190→
+   191→   191→Only change the content.
+   192→   192→
+   193→   193→\==================================================
+   194→   194→8\. ABOUT SECTION CONTENT
+   195→   195→\==================================================
+   196→   196→
+   197→   197→Use this core About copy:
+   198→   198→
+   199→   199→"I turn ideas into digital experiences that help businesses get online, reach more customers, and grow."
+   200→   200→
+   201→   201→The About section should communicate:
+   202→   202→
+   203→   203→\- Who I am
+   204→   204→\- What I build
+   205→   205→\- Who I help
+   206→   206→\- My focus on quality
+   207→   207→\- My focus on business outcomes
+   208→   208→
+   209→   209→Keep it concise.
+   210→   210→
+   211→   211→Do not turn it into a long biography.
+   212→   212→
+   213→   213→Do not mention my beginner status or future ambitions unnecessarily.
+   214→   214→
+   215→   215→Do not invent experience.
+   216→   216→
+   217→   217→Keep all original About section animations, decorative elements, typography, spacing, layout, and visual behavior exactly the same.
+   218→   218→
+   219→   219→\==================================================
+   220→   220→9\. SERVICES SECTION CONTENT
+   221→   221→\==================================================
+   222→   222→
+   223→   223→Replace the original fictional 3D services with my actual services:
+   224→   224→
+   225→   225→01 — Website Development
+   226→   226→
+   227→   227→02 — E-commerce Development
+   228→   228→
+   229→   229→03 — SaaS / Web Applications
+   230→   230→
+   231→   231→04 — Restaurant & Business Websites
+   232→   232→
+   233→   233→Use short, professional descriptions that accurately explain these services.
+   234→   234→
+   235→   235→Do not invent capabilities.
+   236→   236→
+   237→   237→If the original design has 5 service items and requires a fifth item to preserve the exact layout, use another accurate service derived from the services I already provide rather than inventing a completely new capability.
+   238→   238→
+   239→   239→The Services section must preserve the original:
+   240→   240→
+   241→   241→\- Layout
+   242→   242→\- Number styling
+   243→   243→\- Typography
+   244→   244→\- White background
+   245→   245→\- Borders
+   246→   246→\- Spacing
+   247→   247→\- Animations
+   248→   248→\- Responsive behavior
+   249→   249→\- Overall visual appearance
+   250→   250→
+   251→   251→\==================================================
+   252→   252→10\. PROJECTS — MOST IMPORTANT
+   253→   253→\==================================================
+   254→   254→
+   255→   255→The Projects section is one of the most important parts of the website because its purpose is to generate freelance clients.
+   256→   256→
+   257→   257→Only showcase my REAL projects.
+   258→   258→
+   259→   259→Do not create fictional projects.
+   260→   260→
+   261→   261→Do not use random placeholder projects.
+   262→   262→
+   263→   263→Do not claim fake clients.
+   264→   264→
+   265→   265→My current selected projects are:
+   266→   266→
+   267→   267→\------------------------------------------
+   268→   268→PROJECT 01
+   269→   269→\------------------------------------------
+   270→   270→
+   271→   271→Name:
+   272→   272→Ember & Oak
+   273→   273→
+   274→   274→Category:
+   275→   275→Restaurant / Hospitality
+   276→   276→
+   277→   277→URL:
+   278→   278→[https://ember-and-oak-website.netlify.app/](https://ember-and-oak-website.netlify.app/)
+   279→   279→
+   280→   280→Use the project visuals provided in the original project/reference information where appropriate.
+   281→   281→
+   282→   282→\------------------------------------------
+   283→   283→PROJECT 02
+   284→   284→\------------------------------------------
+   285→   285→
+   286→   286→Name:
+   287→   287→Madina Hotel
+   288→   288→
+   289→   289→Category:
+   290→   290→Hotel / Restaurant
+   291→   291→
+   292→   292→URL:
+   293→   293→[https://madina-hotelcom.netlify.app/](https://madina-hotelcom.netlify.app/)
+   294→   294→
+   295→   295→\------------------------------------------
+   296→   296→PROJECT 03
+   297→   297→\------------------------------------------
+   298→   298→
+   299→   299→Name:
+   300→   300→Gym Website
+   301→   301→
+   302→   302→Category:
+   303→   303→Fitness / Business
+   304→   304→
+   305→   305→URL:
+   306→   306→[https://gym-website-marcus.netlify.app/](https://gym-website-marcus.netlify.app/)
+   307→   307→
+   308→   308→These three projects were selected because they provide the strongest combination of:
+   309→   309→
+   310→   310→\- Visual quality
+   311→   311→\- Completeness
+   312→   312→\- Business relevance
+   313→   313→\- Industry variety
+   314→   314→\- Ability to demonstrate my development skills
+   315→   315→
+   316→   316→Do NOT include the other projects unless specifically instructed later.
+   317→   317→
+   318→   318→Projects currently NOT selected:
+   319→   319→
+   320→   320→\- Annaji Chinese Wala
+   321→   321→\- Tamtara Restaurant
+   322→   322→\- Tamtara Restaurant Version 2
+   323→   323→
+   324→   324→The reason is not that they are bad. The portfolio should simply showcase a smaller number of stronger and more varied projects rather than several repetitive restaurant projects.
+   325→   325→
+   326→   326→\==================================================
+   327→   327→11\. PROJECT CATEGORIES
+   328→   328→\==================================================
+   329→   329→
+   330→   330→Do NOT force the portfolio to contain every category.
+   331→   331→
+   332→   332→Currently, my strongest available projects are:
+   333→   333→
+   334→   334→\- Restaurant / Hospitality
+   335→   335→\- Hotel / Restaurant
+   336→   336→\- Fitness / Business
+   337→   337→
+   338→   338→As I build more projects, I can later add:
+   339→   339→
+   340→   340→\- E-commerce
+   341→   341→\- SaaS
+   342→   342→\- Personal portfolios
+   343→   343→\- Startup websites
+   344→   344→\- Other business websites
+   345→   345→
+   346→   346→Do not invent these projects now.
+   347→   347→
+   348→   348→\==================================================
+   349→   349→12\. PROJECT DESCRIPTIONS
+   350→   350→\==================================================
+   351→   351→
+   352→   352→Project descriptions should be:
+   353→   353→
+   354→   354→\- Short
+   355→   355→\- Professional
+   356→   356→\- Clear
+   357→   357→\- Client-focused
+   358→   358→\- Based on the actual project
+   359→   359→
+   360→   360→They should explain what was built and what type of business/problem the website serves.
+   361→   361→
+   362→   362→Do not use generic AI-style descriptions such as:
+   363→   363→
+   364→   364→"An amazing modern website built with cutting-edge technology."
+   365→   365→
+   366→   366→Do not make unsupported claims about results.
+   367→   367→
+   368→   368→The work itself should be the proof.
+   369→   369→
+   370→   370→\==================================================
+   371→   371→13\. PROJECT BUTTONS
+   372→   372→\==================================================
+   373→   373→
+   374→   374→Keep the original "Live Project" button design exactly the same.
+   375→   375→
+   376→   376→Connect each Live Project button to the corresponding real project URL.
+   377→   377→
+   378→   378→Project URLs:
+   379→   379→
+   380→   380→Ember & Oak:
+   381→   381→[https://ember-and-oak-website.netlify.app/](https://ember-and-oak-website.netlify.app/)
+   382→   382→
+   383→   383→Madina Hotel:
+   384→   384→[https://madina-hotelcom.netlify.app/](https://madina-hotelcom.netlify.app/)
+   385→   385→
+   386→   386→Gym Website:
+   387→   387→[https://gym-website-marcus.netlify.app/](https://gym-website-marcus.netlify.app/)
+   388→   388→
+   389→   389→Do not invent URLs.
+   390→   390→
+   391→   391→\==================================================
+   392→   392→14\. CONTACT / LEAD GENERATION
+   393→   393→\==================================================
+   394→   394→
+   395→   395→The website's purpose is to generate freelance leads.
+   396→   396→
+   397→   397→Use multiple contact options.
+   398→   398→
+   399→   399→My contact information:
+   400→   400→
+   401→   401→WhatsApp:
+   402→   402→+91 99703 13187
+   403→   403→
+   404→   404→Email:
+   405→   405→eremikajeet\@gmail.com
+   406→   406→
+   407→   407→Instagram:
+   408→   408→[https://www.instagram.com/\_jeet\_\_\_.07/](https://www.instagram.com/_jeet___.07/)
+   409→   409→
+   410→   410→LinkedIn:
+   411→   411→[https://www.linkedin.com/in/jeet-bokde-30484640b/](https://www.linkedin.com/in/jeet-bokde-30484640b/)
+   412→   412→
+   413→   413→Use these exact details.
+   414→   414→
+   415→   415→Do not invent or modify my contact information.
+   416→   416→
+   417→   417→The contact experience should make it easy for a potential client to reach me.
+   418→   418→
+   419→   419→However:
+   420→   420→
+   421→   421→DO NOT redesign the contact buttons.
+   422→   422→
+   423→   423→Keep the original contact button styling, animation, gradient, size, typography, and overall appearance exactly as specified in the original design.
+   424→   424→
+   425→   425→Only update the destination/contact information and text where necessary.
+   426→   426→
+   427→   427→\==================================================
+   428→   428→15\. NAVIGATION
+   429→   429→\==================================================
+   430→   430→
+   431→   431→Keep the original navigation design exactly the same.
+   432→   432→
+   433→   433→Keep:
+   434→   434→
+   435→   435→\- Position
+   436→   436→\- Typography
+   437→   437→\- Spacing
+   438→   438→\- Hover effects
+   439→   439→\- Responsive behavior
+   440→   440→\- Animation
+   441→   441→
+   442→   442→Only change navigation labels if necessary to accurately match my portfolio.
+   443→   443→
+   444→   444→The navigation should provide access to relevant sections such as:
+   445→   445→
+   446→   446→\- About
+   447→   447→\- Services
+   448→   448→\- Projects
+   449→   449→\- Contact
+   450→   450→
+   451→   451→Do not change the visual design.
+   452→   452→
+   453→   453→\==================================================
+   454→   454→16\. MARQUEE / PROJECT PREVIEW SECTION
+   455→   455→\==================================================
+   456→   456→
+   457→   457→The original design contains a marquee section with project preview images.
+   458→   458→
+   459→   459→Keep:
+   460→   460→
+   461→   461→\- Two rows
+   462→   462→\- Horizontal scrolling
+   463→   463→\- Scroll-based movement
+   464→   464→\- Image dimensions
+   465→   465→\- Gaps
+   466→   466→\- Animation
+   467→   467→\- Performance behavior
+   468→   468→\- Responsive behavior
+   469→   469→
+   470→   470→However, because this is now MY portfolio, the marquee should ideally showcase MY actual work rather than unrelated fictional/random work.
+   471→   471→
+   472→   472→If my actual project images are available, use them.
+   473→   473→
+   474→   474→If they are not available in the current implementation, do not fabricate new project work.
+   475→   475→
+   476→   476→Use an appropriate fallback only if necessary while preserving the original design.
+   477→   477→
+   478→   478→DO NOT redesign the marquee.
+   479→   479→
+   480→   480→\==================================================
+   481→   481→17\. DESIGN — ABSOLUTELY DO NOT CHANGE
+   482→   482→\==================================================
+   483→   483→
+   484→   484→THIS IS THE MOST IMPORTANT RULE.
+   485→   485→
+   486→   486→The original design is already approved.
+   487→   487→
+   488→   488→Do NOT change:
+   489→   489→
+   490→   490→\- Overall design
+   491→   491→\- Layout
+   492→   492→\- Section order
+   493→   493→\- Colors
+   494→   494→\- Color palette
+   495→   495→\- Typography
+   496→   496→\- Font
+   497→   497→\- Font weights
+   498→   498→\- Font sizes
+   499→   499→\- Spacing
+   500→   500→\- Margins
+   501→   501→\- Padding
+   502→   502→\- Border radius
+   503→   503→\- Borders
+   504→   504→\- Backgrounds
+   505→   505→\- Gradients
+   506→   506→\- Buttons
+   507→   507→\- Cards
+   508→   508→\- Shadows
+   509→   509→\- Decorative elements
+   510→   510→\- 3D elements
+   511→   511→\- Image positioning
+   512→   512→\- Hero composition
+   513→   513→\- Animations
+   514→   514→\- Scroll effects
+   515→   515→\- Hover effects
+   516→   516→\- Marquee behavior
+   517→   517→\- Sticky project cards
+   518→   518→\- Project stacking effect
+   519→   519→\- Framer Motion effects
+   520→   520→\- Responsive behavior
+   521→   521→\- Breakpoints
+   522→   522→\- Component structure
+   523→   523→\- Existing visual effects
+   524→   524→
+   525→   525→DO NOT "improve" the design.
+   526→   526→
+   527→   527→DO NOT modernize it.
+   528→   528→
+   529→   529→DO NOT simplify it.
+   530→   530→
+   531→   531→DO NOT make it cleaner.
+   532→   532→
+   533→   533→DO NOT make it more minimal.
+   534→   534→
+   535→   535→DO NOT choose different colors.
+   536→   536→
+   537→   537→DO NOT replace the typography.
+   538→   538→
+   539→   539→DO NOT change the layout because you think another layout would convert better.
+   540→   540→
+   541→   541→The original design is the source of truth.
+   542→   542→
+   543→   543→\==================================================
+   544→   544→18\. CONTENT VS DESIGN RULE
+   545→   545→\==================================================
+   546→   546→
+   547→   547→If my new content does not fit perfectly into the existing design:
+   548→   548→
+   549→   549→CHANGE THE CONTENT.
+   550→   550→
+   551→   551→DO NOT CHANGE THE DESIGN.
+   552→   552→
+   553→   553→For example:
+   554→   554→
+   555→   555→If a heading is too long:
+   556→   556→→ Shorten the wording.
+   557→   557→
+   558→   558→If a description is too long:
+   559→   559→→ Rewrite it shorter.
+   560→   560→
+   561→   561→If a project title is longer:
+   562→   562→→ Adapt the copy while preserving the visual structure.
+   563→   563→
+   564→   564→Never modify the visual design just to accommodate content.
+   565→   565→
+   566→   566→\==================================================
+   567→   567→19\. ORIGINAL TECHNICAL STACK
+   568→   568→\==================================================
+   569→   569→
+   570→   570→Preserve the original technical stack:
+   571→   571→
+   572→   572→\- React
+   573→   573→\- TypeScript
+   574→   574→\- Tailwind CSS
+   575→   575→\- Framer Motion
+   576→   576→\- Lucide React
+   577→   577→\- Vite
+   578→   578→
+   579→   579→Keep the existing component architecture.
+   580→   580→
+   581→   581→Preserve the reusable components:
+   582→   582→
+   583→   583→\- ContactButton
+   584→   584→\- LiveProjectButton
+   585→   585→\- FadeIn
+   586→   586→\- Magnet
+   587→   587→\- AnimatedText
+   588→   588→
+   589→   589→Preserve their existing behavior and styling.
+   590→   590→
+   591→   591→Do not replace the technology stack unless absolutely necessary.
+   592→   592→
+   593→   593→\==================================================
+   594→   594→20\. RESPONSIVENESS
+   595→   595→\==================================================
+   596→   596→
+   597→   597→Preserve the original responsive implementation.
+   598→   598→
+   599→   599→The website must continue to work correctly on:
+   600→   600→
+   601→   601→\- Mobile
+   602→   602→\- Tablet
+   603→   603→\- Desktop
+   604→   604→\- Large screens
+   605→   605→\- Ultra-wide screens
+   606→   606→
+   607→   607→Do not change the original responsive strategy simply because the content has changed.
+   608→   608→
+   609→   609→\==================================================
+   610→   610→21\. SEO / PROFESSIONAL DETAILS
+   611→   611→\==================================================
+   612→   612→
+   613→   613→Where the original implementation contains generic/fictitious metadata, update it to accurately represent me.
+   614→   614→
+   615→   615→For example:
+   616→   616→
+   617→   617→Page title should represent:
+   618→   618→
+   619→   619→Jeet — Full-Stack Developer
+   620→   620→
+   621→   621→Use appropriate basic SEO metadata based only on information I have provided.
+   622→   622→
+   623→   623→Do not make exaggerated SEO claims.
+   624→   624→
+   625→   625→Keep the visual design unchanged.
+   626→   626→
+   627→   627→\==================================================
+   628→   628→22\. IMPLEMENTATION BEHAVIOR
+   629→   629→\==================================================
+   630→   630→
+   631→   631→Before making changes:
+   632→   632→
+   633→   633→1\. Understand the original design specification completely.
+   634→   634→2\. Identify which parts are visual/design instructions.
+   635→   635→3\. Identify which parts are fictional content that must be replaced.
+   636→   636→4\. Replace fictional content with my actual information.
+   637→   637→5\. Preserve all visual and technical behavior.
+   638→   638→6\. Use my actual project URLs.
+   639→   639→7\. Use my actual contact information.
+   640→   640→8\. Do not invent missing information.
+   641→   641→9\. Make sure the final result feels like MY portfolio rather than the original fictional portfolio.
+   642→   642→
+   643→   643→\==================================================
+   644→   644→23\. IF INFORMATION IS MISSING
+   645→   645→\==================================================
+   646→   646→
+   647→   647→If you genuinely need information that has not been provided:
+   648→   648→
+   649→   649→ASK ME.
+   650→   650→
+   651→   651→Do not guess.
+   652→   652→
+   653→   653→Do not invent.
+   654→   654→
+   655→   655→Do not silently create fake information.
+   656→   656→
+   657→   657→However, do NOT ask me again for information that is already provided in this instruction.
+   658→   658→
+   659→   659→\==================================================
+   660→   660→24\. FINAL QUALITY CHECK
+   661→   661→\==================================================
+   662→   662→
+   663→   663→Before considering the work complete, verify:
+   664→   664→
+   665→   665→IDENTITY:
+   666→   666→\- Name is Jeet
+   667→   667→\- Role is Full-Stack Developer
+   668→   668→
+   669→   669→POSITIONING:
+   670→   670→\- "I build digital experiences that help businesses grow."
+   671→   671→
+   672→   672→SERVICES:
+   673→   673→\- Website Development
+   674→   674→\- E-commerce Development
+   675→   675→\- SaaS / Web Applications
+   676→   676→\- Restaurant & Business Websites
+   677→   677→
+   678→   678→TECH:
+   679→   679→\- React / Next.js stack
+   680→   680→
+   681→   681→PROJECTS:
+   682→   682→\- Ember & Oak
+   683→   683→\- Madina Hotel
+   684→   684→\- Gym Website
+   685→   685→
+   686→   686→CONTACT:
+   687→   687→\- WhatsApp
+   688→   688→\- Email
+   689→   689→\- Instagram
+   690→   690→\- LinkedIn
+   691→   691→
+   692→   692→CONTENT:
+   693→   693→\- Short
+   694→   694→\- Premium
+   695→   695→\- Professional
+   696→   696→\- Human
+   697→   697→\- Client-focused
+   698→   698→\- Honest
+   699→   699→\- No fake claims
+   700→   700→
+   701→   701→DESIGN:
+   702→   702→\- Original design preserved
+   703→   703→\- Original colors preserved
+   704→   704→\- Original typography preserved
+   705→   705→\- Original animations preserved
+   706→   706→\- Original layouts preserved
+   707→   707→\- Original responsive behavior preserved
+   708→   708→
+   709→   709→MOST IMPORTANT:
+   710→   710→
+   711→   711→THIS IS A PERSONALIZATION TASK, NOT A REDESIGN TASK.
+   712→   712→
+   713→   713→Take the ORIGINAL SPECIFICATION BELOW and transform the fictional 3D Creator portfolio into my real personal Full-Stack Developer portfolio while preserving the original design as closely as technically possible.
+   714→   714→
+   715→   715→\==================================================
+   716→   716→END OF MASTER INSTRUCTION
+   717→   717→\==================================================
+   718→   718→
+   719→   719→NOW READ THE ORIGINAL WEBSITE/DESIGN SPECIFICATION BELOW AND IMPLEMENT THE PERSONALIZATION.
+   720→   720→
+   721→   721→
+   722→   722→
+   723→   723→
+   724→   724→Build a 3D Creator portfolio landing page for "Jack" using React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React. The page has a dark theme (#0C0C0C background) with the font Kanit (Google Fonts, weights 300-900). The page title is "Jack -- 3D Creator".
+   725→   725→
+   726→   726→GLOBAL STYLES
+   727→   727→Background: #0C0C0C on html, body, #root, and the main wrapper
+   728→   728→Font family: 'Kanit', sans-serif
+   729→   729→Global reset: box-sizing border-box, margin 0, padding 0
+   730→   730→CSS class .hero-heading: gradient text using background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%) with -webkit-background-clip: text and -webkit-text-fill-color: transparent
+   731→   731→Main wrapper has overflowX: 'clip'
+   732→   732→SECTION ORDER
+   733→   733→HeroSection
+   734→   734→MarqueeSection
+   735→   735→AboutSection
+   736→   736→ServicesSection
+   737→   737→ProjectsSection
+   738→   738→1\. HERO SECTION
+   739→   739→Full viewport height (h-screen), flex column layout with overflowX: clip.
+   740→   740→
+   741→   741→Navbar: Horizontal nav bar with 4 links -- "About", "Price", "Projects", "Contact" -- evenly spaced with justify-between. Text color #D7E2EA, font-medium, uppercase, tracking-wider. Sizes: text-sm md\:text-lg lg\:text-[1.4rem]. Padding: px-6 md\:px-10 pt-6 md\:pt-8. Hover: opacity 70% with 200ms transition.
+   742→   742→
+   743→   743→Hero Heading: Massive h1 with text "Hi, i'm jack" (lowercase "i", curly apostrophe via &apos;). Uses the .hero-heading gradient text class. Font-black, uppercase, tracking-tight, leading-none, whitespace-nowrap, w-full. Font sizes: text-[14vw] sm\:text-[15vw] md\:text-[16vw] lg\:text-[17.5vw]. Margin top: mt-6 sm\:mt-4 md:-mt-5. Wrapped in overflow-hidden container.
+   744→   744→
+   745→   745→Bottom bar: Flexbox justify-between items-end with pb-7 sm\:pb-8 md\:pb-10:
+   746→   746→
+   747→   747→Left: paragraph text "a 3d creator driven by crafting striking and unforgettable projects", color #D7E2EA, font-light, uppercase, tracking-wide, leading-snug. Font size: clamp(0.75rem, 1.4vw, 1.5rem). Max-width: max-w-[160px] sm\:max-w-[220px] md\:max-w-[260px].
+   748→   748→Right: ContactButton component (see below)
+   749→   749→Hero Portrait: Centered absolutely. Uses a Magnet component (mouse-following magnetic effect) wrapping an image. Image URL: [https://shrug-person-78902957.figma.site/\_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle\_40443.81459862.png](https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png). Magnet settings: padding 150, strength 3, activeTransition "transform 0.3s ease-out", inactiveTransition "transform 0.6s ease-in-out". Positioning: absolute left-1/2 -translate-x-1/2 z-10. Width: w-[280px] sm\:w-[360px] md\:w-[440px] lg\:w-[520px]. On mobile: top-1/2 -translate-y-1/2. On sm+: sm\:top-auto sm\:translate-y-0 sm\:bottom-0.
+   750→   750→
+   751→   751→FadeIn animations: Navbar fades in with delay 0, y -20. Heading: delay 0.15, y 40. Left text: delay 0.35, y 20. Contact button: delay 0.5, y 20. Portrait: delay 0.6, y 30.
+   752→   752→
+   753→   753→2\. MARQUEE SECTION
+   754→   754→Two rows of images that scroll horizontally based on page scroll position. Background #0C0C0C. Padding: pt-24 sm\:pt-32 md\:pt-40 pb-10.
+   755→   755→
+   756→   756→21 GIF images from motionsites.ai (exact URLs):
+   757→   757→
+   758→   758→
+   759→   759→[https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif](https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif)
+   760→   760→[https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif](https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif)
+   761→   761→[https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif](https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif)
+   762→   762→[https://motionsites.ai/assets/hero-stellar-ai-v2-preview-DjvxjG3C.gif](https://motionsites.ai/assets/hero-stellar-ai-v2-preview-DjvxjG3C.gif)
+   763→   763→[https://motionsites.ai/assets/hero-asme-preview-B\_nGDnTP.gif](https://motionsites.ai/assets/hero-asme-preview-B_nGDnTP.gif)
+   764→   764→[https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif](https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif)
+   765→   765→[https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif](https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif)
+   766→   766→[https://motionsites.ai/assets/hero-terra-preview-BFjrCr7T.gif](https://motionsites.ai/assets/hero-terra-preview-BFjrCr7T.gif)
+   767→   767→[https://motionsites.ai/assets/hero-skyelite-preview-DHaZIgUv.gif](https://motionsites.ai/assets/hero-skyelite-preview-DHaZIgUv.gif)
+   768→   768→[https://motionsites.ai/assets/hero-aethera-preview-DknSlcTa.gif](https://motionsites.ai/assets/hero-aethera-preview-DknSlcTa.gif)
+   769→   769→[https://motionsites.ai/assets/hero-designpro-preview-D8c5\_een.gif](https://motionsites.ai/assets/hero-designpro-preview-D8c5_een.gif)
+   770→   770→[https://motionsites.ai/assets/hero-stellar-ai-preview-D3HL6bw1.gif](https://motionsites.ai/assets/hero-stellar-ai-preview-D3HL6bw1.gif)
+   771→   771→[https://motionsites.ai/assets/hero-xportfolio-preview-D4A8maiC.gif](https://motionsites.ai/assets/hero-xportfolio-preview-D4A8maiC.gif)
+   772→   772→[https://motionsites.ai/assets/hero-orbit-web3-preview-BXt4OttD.gif](https://motionsites.ai/assets/hero-orbit-web3-preview-BXt4OttD.gif)
+   773→   773→[https://motionsites.ai/assets/hero-nexora-preview-cx5HmUgo.gif](https://motionsites.ai/assets/hero-nexora-preview-cx5HmUgo.gif)
+   774→   774→[https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif](https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif)
+   775→   775→[https://motionsites.ai/assets/hero-planet-orbit-preview-DWAP8Z1P.gif](https://motionsites.ai/assets/hero-planet-orbit-preview-DWAP8Z1P.gif)
+   776→   776→[https://motionsites.ai/assets/hero-new-era-preview-CocuDUm9.gif](https://motionsites.ai/assets/hero-new-era-preview-CocuDUm9.gif)
+   777→   777→[https://motionsites.ai/assets/hero-wealth-preview-B70idl\_u.gif](https://motionsites.ai/assets/hero-wealth-preview-B70idl_u.gif)
+   778→   778→[https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif](https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif)
+   779→   779→[https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif](https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif)
+   780→   780→Row 1: first 11 images, tripled for seamless scrolling. Moves RIGHT on scroll (translateX(offset - 200)).
+   781→   781→Row 2: remaining 10 images, tripled. Moves LEFT on scroll (translateX(-(offset - 200))).
+   782→   782→Scroll offset calculated as: (window\.scrollY - sectionTop + window\.innerHeight) \* 0.3
+   783→   783→Each image tile: 420px x 270px, rounded-2xl, object-cover, lazy loaded.
+   784→   784→Gap between tiles: gap-3. Gap between rows: gap-3.
+   785→   785→Uses willChange: 'transform' for performance. Scroll listener is passive.
+   786→   786→3\. ABOUT SECTION
+   787→   787→Full-height centered section with min-h-screen, padding px-5 sm\:px-8 md\:px-10 py-20.
+   788→   788→
+   789→   789→Four decorative 3D images positioned absolutely in corners:
+   790→   790→
+   791→   791→Top-left: Moon icon -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon\_icon.11395d36.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon_icon.11395d36.png) -- w-[120px] sm\:w-[160px] md\:w-[210px], positioned top-[4%] left-[1%] sm\:left-[2%] md\:left-[4%]. FadeIn: delay 0.1, x -80, y 0, duration 0.9.
+   792→   792→Bottom-left: 3D object -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59\_1.4659672e.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59_1.4659672e.png) -- w-[100px] sm\:w-[140px] md\:w-[180px], positioned bottom-[8%] left-[3%] sm\:left-[6%] md\:left-[10%]. FadeIn: delay 0.25, x -80, y 0, duration 0.9.
+   793→   793→Top-right: Lego icon -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego\_icon-1.703bb594.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego_icon-1.703bb594.png) -- w-[120px] sm\:w-[160px] md\:w-[210px], positioned top-[4%] right-[1%] sm\:right-[2%] md\:right-[4%]. FadeIn: delay 0.15, x 80, y 0, duration 0.9.
+   794→   794→Bottom-right: 3D group -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/Group\_134-1.2e04f3ce.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/Group_134-1.2e04f3ce.png) -- w-[130px] sm\:w-[170px] md\:w-[220px], positioned bottom-[8%] right-[3%] sm\:right-[6%] md\:right-[10%]. FadeIn: delay 0.3, x 80, y 0, duration 0.9.
+   795→   795→Heading: "About me" using .hero-heading gradient text, font-black, uppercase, leading-none, tracking-tight, centered. Font size: clamp(3rem, 12vw, 160px). FadeIn: delay 0, y 40.
+   796→   796→
+   797→   797→Animated paragraph: Uses a character-by-character scroll-driven opacity animation. Text: "With more than five years of experience in design, i focus on branding, web design, and user experience, i truly enjoy working with businesses that aim to stand out and present their best image. Let's build something incredible together!" -- color #D7E2EA, font-medium, centered, leading-relaxed, max-w-[560px], font size clamp(1rem, 2vw, 1.35rem). Each character animates from opacity 0.2 to 1 based on scroll progress, with scroll offset ['start 0.8', 'end 0.2'].
+   798→   798→
+   799→   799→Contact button below the text block. Gap between heading/text: gap-10 sm\:gap-14 md\:gap-16. Gap between text block and button: gap-16 sm\:gap-20 md\:gap-24.
+   800→   800→
+   801→   801→4\. SERVICES SECTION
+   802→   802→White background (#FFFFFF), with rounded-t-[40px] sm\:rounded-t-[50px] md\:rounded-t-[60px] top corners. Padding: px-5 sm\:px-8 md\:px-10 py-20 sm\:py-24 md\:py-32.
+   803→   803→
+   804→   804→Heading: "Services" in #0C0C0C, font-black, uppercase, centered, font size clamp(3rem, 12vw, 160px). Margin bottom: mb-16 sm\:mb-20 md\:mb-28.
+   805→   805→
+   806→   806→5 service items in a vertical list, max-w-5xl, centered:
+   807→   807→
+   808→   808→01 - 3D Modeling: "Creation of detailed objects, characters, or environments tailored to specific client needs, ideal for games, products, and visualizations."
+   809→   809→02 - Rendering: "High-quality, photorealistic renders that showcase designs with custom lighting, textures, and materials to bring concepts to life."
+   810→   810→03 - Motion Design: "Dynamic animations and motion graphics that add energy and storytelling to brands, products, and digital experiences."
+   811→   811→04 - Branding: "Crafting cohesive visual identities -- from logos to full brand systems -- that communicate a clear and memorable presence."
+   812→   812→05 - Web Design: "Designing clean, modern, and conversion-focused websites with attention to layout, typography, and user experience."
+   813→   813→Each item: horizontal layout with number (font-black, font size clamp(3rem, 10vw, 140px), color #0C0C0C) on the left and name + description stacked vertically on the right. Name: font-medium, uppercase, font size clamp(1rem, 2.2vw, 2.1rem). Description: font-light, leading-relaxed, max-w-2xl, font size clamp(0.85rem, 1.6vw, 1.25rem), opacity 0.6. Items separated by 1px borders (rgba(12, 12, 12, 0.15)). Padding: py-8 sm\:py-10 md\:py-12. Staggered FadeIn: each item delays by i \* 0.1.
+   814→   814→
+   815→   815→5\. PROJECTS SECTION
+   816→   816→Dark background (#0C0C0C), rounded top corners rounded-t-[40px] sm\:rounded-t-[50px] md\:rounded-t-[60px], pulled up with -mt-10 sm:-mt-12 md:-mt-14, z-10.
+   817→   817→
+   818→   818→Heading: "Project" (singular) using .hero-heading gradient, same styling as other headings.
+   819→   819→
+   820→   820→3 sticky-stacking project cards that scale down as you scroll past them (card stacking effect using Framer Motion useScroll and useTransform). Each card is sticky top-24 md\:top-32 inside an h-[85vh] container.
+   821→   821→
+   822→   822→Scale calculation: targetScale = 1 - (totalCards - 1 - index) \* 0.03. Each card offset by top: ${index \* 28}px.
+   823→   823→
+   824→   824→Each card has: rounded-[40px] sm\:rounded-[50px] md\:rounded-[60px], border-2 border-[#D7E2EA], background #0C0C0C, padding p-4 sm\:p-6 md\:p-8.
+   825→   825→
+   826→   826→Card layout:
+   827→   827→
+   828→   828→Top row: Number (huge, same style as services), category label, project name, and a "Live Project" ghost button (rounded-full, border-2 #D7E2EA, uppercase, tracking-widest).
+   829→   829→Bottom row: Two-column image grid -- left column (40% width) has 2 stacked images, right column (60%) has 1 tall image. All images have heavy border radius rounded-[40px] sm\:rounded-[50px] md\:rounded-[60px]. Left top image height: clamp(130px, 16vw, 230px). Left bottom image height: clamp(160px, 22vw, 340px).
+   830→   830→Project data with CloudFront image URLs:
+   831→   831→
+   832→   832→Project 01 - "Nextlevel Studio" (Client):
+   833→   833→
+   834→   834→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055344\_5eff02e0-87a5-41ce-b64f-eb08da8f33db.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055344_5eff02e0-87a5-41ce-b64f-eb08da8f33db.png\&w=1280\&q=85)
+   835→   835→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055431\_11d841fd-8b41-46a5-82e4-b04f2407a7d8.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055431_11d841fd-8b41-46a5-82e4-b04f2407a7d8.png\&w=1280\&q=85)
+   836→   836→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055451\_e317bf2d-28d4-48cc-86b0-6f72f25b6327.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055451_e317bf2d-28d4-48cc-86b0-6f72f25b6327.png\&w=1280\&q=85)
+   837→   837→Project 02 - "Aura Brand Identity" (Personal):
+   838→   838→
+   839→   839→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055654\_911201c5-36d9-4bc6-bac7-331adfce159f.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055654_911201c5-36d9-4bc6-bac7-331adfce159f.png\&w=1280\&q=85)
+   840→   840→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055723\_5ceda0b8-d9c2-4665-b2e3-83ba19ba76d1.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055723_5ceda0b8-d9c2-4665-b2e3-83ba19ba76d1.png\&w=1280\&q=85)
+   841→   841→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055753\_adc5dcbd-a8e6-49c0-b43a-9b030d835cea.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055753_adc5dcbd-a8e6-49c0-b43a-9b030d835cea.png\&w=1280\&q=85)
+   842→   842→Project 03 - "Solaris Digital" (Client):
+   843→   843→
+   844→   844→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055759\_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055759_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png\&w=1280\&q=85)
+   845→   845→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_060108\_438f781a-9846-4dcc-89ab-c4e6cb830f5b.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_060108_438f781a-9846-4dcc-89ab-c4e6cb830f5b.png\&w=1280\&q=85)
+   846→   846→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055818\_9d062121-ad7e-46b9-999a-1a6a692ef1ee.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055818_9d062121-ad7e-46b9-999a-1a6a692ef1ee.png\&w=1280\&q=85)
+   847→   847→REUSABLE COMPONENTS
+   848→   848→ContactButton: Rounded-full pill button with gradient background linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%), inner box-shadow 0px 4px 4px rgba(181, 1, 167, 0.25), 4px 4px 12px #7721B1 inset, white 2px outline with -3px offset. Text: white, font-medium, uppercase, tracking-widest. Sizes: px-8 py-3 sm\:px-10 sm\:py-3.5 md\:px-12 md\:py-4, text text-xs sm\:text-sm md\:text-base. Label: "Contact Me".
+   849→   849→
+   850→   850→LiveProjectButton: Ghost/outline pill button. Rounded-full, border-2 border-[#D7E2EA], text color #D7E2EA, font-medium, uppercase, tracking-widest. Sizes: px-8 py-3 sm\:px-10 sm\:py-3.5, text text-sm sm\:text-base. Hover: bg-[#D7E2EA]/10. Label: "Live Project".
+   851→   851→
+   852→   852→FadeIn: Framer Motion wrapper using whileInView with viewport={{ once: true, margin: "50px", amount: 0 }}. Accepts delay, duration (default 0.7), x (default 0), y (default 30). Easing: [0.25, 0.1, 0.25, 1]. Uses motion.create() for dynamic element types.
+   853→   853→
+   854→   854→Magnet: Mouse-following magnetic hover effect. Tracks mouse position relative to element center, applies translate3d transform divided by strength factor. Activates when cursor is within padding distance of element edge. Smooth transition in (0.3s ease-out) and out (0.6s ease-in-out). Uses willChange: 'transform'.
+   855→   855→
+   856→   856→AnimatedText: Character-by-character scroll-reveal text animation. Each character goes from opacity 0.2 to 1 based on its position in the text relative to scroll progress. Uses Framer Motion useScroll targeting the paragraph element with offset ['start 0.8', 'end 0.2']. Each character uses invisible placeholder + absolute positioned animated span.
+   857→   857→
+   858→   858→KEY DEPENDENCIES
+   859→   859→react, react-dom (^18.3.1)
+   860→   860→framer-motion (^12.38.0)
+   861→   861→lucide-react (^0.344.0)
+   862→   862→tailwindcss (^3.4.1)
+   863→   863→vite, typescript
+   864→   864→RESPONSIVE BREAKPOINTS
+   865→   865→All sections use Tailwind's default breakpoints (sm: 640px, md: 768px, lg: 1024px) with mobile-first approach. Heavy use of clamp() for fluid typography. The entire design scales gracefully from mobile to ultra-wide screens.Build a 3D Creator portfolio landing page for "Jack" using React, TypeScript, Tailwind CSS, Framer Motion, and Lucide React. The page has a dark theme (#0C0C0C background) with the font Kanit (Google Fonts, weights 300-900). The page title is "Jack -- 3D Creator".
+   866→   866→
+   867→   867→GLOBAL STYLES
+   868→   868→Background: #0C0C0C on html, body, #root, and the main wrapper
+   869→   869→Font family: 'Kanit', sans-serif
+   870→   870→Global reset: box-sizing border-box, margin 0, padding 0
+   871→   871→CSS class .hero-heading: gradient text using background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%) with -webkit-background-clip: text and -webkit-text-fill-color: transparent
+   872→   872→Main wrapper has overflowX: 'clip'
+   873→   873→SECTION ORDER
+   874→   874→HeroSection
+   875→   875→MarqueeSection
+   876→   876→AboutSection
+   877→   877→ServicesSection
+   878→   878→ProjectsSection
+   879→   879→1\. HERO SECTION
+   880→   880→Full viewport height (h-screen), flex column layout with overflowX: clip.
+   881→   881→
+   882→   882→Navbar: Horizontal nav bar with 4 links -- "About", "Price", "Projects", "Contact" -- evenly spaced with justify-between. Text color #D7E2EA, font-medium, uppercase, tracking-wider. Sizes: text-sm md\:text-lg lg\:text-[1.4rem]. Padding: px-6 md\:px-10 pt-6 md\:pt-8. Hover: opacity 70% with 200ms transition.
+   883→   883→
+   884→   884→Hero Heading: Massive h1 with text "Hi, i'm jack" (lowercase "i", curly apostrophe via &apos;). Uses the .hero-heading gradient text class. Font-black, uppercase, tracking-tight, leading-none, whitespace-nowrap, w-full. Font sizes: text-[14vw] sm\:text-[15vw] md\:text-[16vw] lg\:text-[17.5vw]. Margin top: mt-6 sm\:mt-4 md:-mt-5. Wrapped in overflow-hidden container.
+   885→   885→
+   886→   886→Bottom bar: Flexbox justify-between items-end with pb-7 sm\:pb-8 md\:pb-10:
+   887→   887→
+   888→   888→Left: paragraph text "a 3d creator driven by crafting striking and unforgettable projects", color #D7E2EA, font-light, uppercase, tracking-wide, leading-snug. Font size: clamp(0.75rem, 1.4vw, 1.5rem). Max-width: max-w-[160px] sm\:max-w-[220px] md\:max-w-[260px].
+   889→   889→Right: ContactButton component (see below)
+   890→   890→Hero Portrait: Centered absolutely. Uses a Magnet component (mouse-following magnetic effect) wrapping an image. Image URL: [https://shrug-person-78902957.figma.site/\_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle\_40443.81459862.png](https://shrug-person-78902957.figma.site/_components/v2/d24c01ad3a56fc65e942a1f501eb73db42d7cf9a/Rectangle_40443.81459862.png). Magnet settings: padding 150, strength 3, activeTransition "transform 0.3s ease-out", inactiveTransition "transform 0.6s ease-in-out". Positioning: absolute left-1/2 -translate-x-1/2 z-10. Width: w-[280px] sm\:w-[360px] md\:w-[440px] lg\:w-[520px]. On mobile: top-1/2 -translate-y-1/2. On sm+: sm\:top-auto sm\:translate-y-0 sm\:bottom-0.
+   891→   891→
+   892→   892→FadeIn animations: Navbar fades in with delay 0, y -20. Heading: delay 0.15, y 40. Left text: delay 0.35, y 20. Contact button: delay 0.5, y 20. Portrait: delay 0.6, y 30.
+   893→   893→
+   894→   894→2\. MARQUEE SECTION
+   895→   895→Two rows of images that scroll horizontally based on page scroll position. Background #0C0C0C. Padding: pt-24 sm\:pt-32 md\:pt-40 pb-10.
+   896→   896→
+   897→   897→21 GIF images from motionsites.ai (exact URLs):
+   898→   898→
+   899→   899→
+   900→   900→[https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif](https://motionsites.ai/assets/hero-space-voyage-preview-eECLH3Yc.gif)
+   901→   901→[https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif](https://motionsites.ai/assets/hero-codenest-preview-Cgppc2qV.gif)
+   902→   902→[https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif](https://motionsites.ai/assets/hero-vex-ventures-preview-BczMFIiw.gif)
+   903→   903→[https://motionsites.ai/assets/hero-stellar-ai-v2-preview-DjvxjG3C.gif](https://motionsites.ai/assets/hero-stellar-ai-v2-preview-DjvxjG3C.gif)
+   904→   904→[https://motionsites.ai/assets/hero-asme-preview-B\_nGDnTP.gif](https://motionsites.ai/assets/hero-asme-preview-B_nGDnTP.gif)
+   905→   905→[https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif](https://motionsites.ai/assets/hero-transform-data-preview-Cx5OU29N.gif)
+   906→   906→[https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif](https://motionsites.ai/assets/hero-vitara-preview-Cjz2QYyU.gif)
+   907→   907→[https://motionsites.ai/assets/hero-terra-preview-BFjrCr7T.gif](https://motionsites.ai/assets/hero-terra-preview-BFjrCr7T.gif)
+   908→   908→[https://motionsites.ai/assets/hero-skyelite-preview-DHaZIgUv.gif](https://motionsites.ai/assets/hero-skyelite-preview-DHaZIgUv.gif)
+   909→   909→[https://motionsites.ai/assets/hero-aethera-preview-DknSlcTa.gif](https://motionsites.ai/assets/hero-aethera-preview-DknSlcTa.gif)
+   910→   910→[https://motionsites.ai/assets/hero-designpro-preview-D8c5\_een.gif](https://motionsites.ai/assets/hero-designpro-preview-D8c5_een.gif)
+   911→   911→[https://motionsites.ai/assets/hero-stellar-ai-preview-D3HL6bw1.gif](https://motionsites.ai/assets/hero-stellar-ai-preview-D3HL6bw1.gif)
+   912→   912→[https://motionsites.ai/assets/hero-xportfolio-preview-D4A8maiC.gif](https://motionsites.ai/assets/hero-xportfolio-preview-D4A8maiC.gif)
+   913→   913→[https://motionsites.ai/assets/hero-orbit-web3-preview-BXt4OttD.gif](https://motionsites.ai/assets/hero-orbit-web3-preview-BXt4OttD.gif)
+   914→   914→[https://motionsites.ai/assets/hero-nexora-preview-cx5HmUgo.gif](https://motionsites.ai/assets/hero-nexora-preview-cx5HmUgo.gif)
+   915→   915→[https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif](https://motionsites.ai/assets/hero-evr-ventures-preview-DZxeVFEX.gif)
+   916→   916→[https://motionsites.ai/assets/hero-planet-orbit-preview-DWAP8Z1P.gif](https://motionsites.ai/assets/hero-planet-orbit-preview-DWAP8Z1P.gif)
+   917→   917→[https://motionsites.ai/assets/hero-new-era-preview-CocuDUm9.gif](https://motionsites.ai/assets/hero-new-era-preview-CocuDUm9.gif)
+   918→   918→[https://motionsites.ai/assets/hero-wealth-preview-B70idl\_u.gif](https://motionsites.ai/assets/hero-wealth-preview-B70idl_u.gif)
+   919→   919→[https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif](https://motionsites.ai/assets/hero-luminex-preview-CxOP7ce6.gif)
+   920→   920→[https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif](https://motionsites.ai/assets/hero-celestia-preview-0yO3jXO8.gif)
+   921→   921→Row 1: first 11 images, tripled for seamless scrolling. Moves RIGHT on scroll (translateX(offset - 200)).
+   922→   922→Row 2: remaining 10 images, tripled. Moves LEFT on scroll (translateX(-(offset - 200))).
+   923→   923→Scroll offset calculated as: (window\.scrollY - sectionTop + window\.innerHeight) \* 0.3
+   924→   924→Each image tile: 420px x 270px, rounded-2xl, object-cover, lazy loaded.
+   925→   925→Gap between tiles: gap-3. Gap between rows: gap-3.
+   926→   926→Uses willChange: 'transform' for performance. Scroll listener is passive.
+   927→   927→3\. ABOUT SECTION
+   928→   928→Full-height centered section with min-h-screen, padding px-5 sm\:px-8 md\:px-10 py-20.
+   929→   929→
+   930→   930→Four decorative 3D images positioned absolutely in corners:
+   931→   931→
+   932→   932→Top-left: Moon icon -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon\_icon.11395d36.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/moon_icon.11395d36.png) -- w-[120px] sm\:w-[160px] md\:w-[210px], positioned top-[4%] left-[1%] sm\:left-[2%] md\:left-[4%]. FadeIn: delay 0.1, x -80, y 0, duration 0.9.
+   933→   933→Bottom-left: 3D object -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59\_1.4659672e.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/p59_1.4659672e.png) -- w-[100px] sm\:w-[140px] md\:w-[180px], positioned bottom-[8%] left-[3%] sm\:left-[6%] md\:left-[10%]. FadeIn: delay 0.25, x -80, y 0, duration 0.9.
+   934→   934→Top-right: Lego icon -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego\_icon-1.703bb594.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/lego_icon-1.703bb594.png) -- w-[120px] sm\:w-[160px] md\:w-[210px], positioned top-[4%] right-[1%] sm\:right-[2%] md\:right-[4%]. FadeIn: delay 0.15, x 80, y 0, duration 0.9.
+   935→   935→Bottom-right: 3D group -- [https://shrug-person-78902957.figma.site/\_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/Group\_134-1.2e04f3ce.png](https://shrug-person-78902957.figma.site/_components/v2/ebb2b8f25d8e24d5f0a5ca8af4c950de81aa2fd7/Group_134-1.2e04f3ce.png) -- w-[130px] sm\:w-[170px] md\:w-[220px], positioned bottom-[8%] right-[3%] sm\:right-[6%] md\:right-[10%]. FadeIn: delay 0.3, x 80, y 0, duration 0.9.
+   936→   936→Heading: "About me" using .hero-heading gradient text, font-black, uppercase, leading-none, tracking-tight, centered. Font size: clamp(3rem, 12vw, 160px). FadeIn: delay 0, y 40.
+   937→   937→
+   938→   938→Animated paragraph: Uses a character-by-character scroll-driven opacity animation. Text: "With more than five years of experience in design, i focus on branding, web design, and user experience, i truly enjoy working with businesses that aim to stand out and present their best image. Let's build something incredible together!" -- color #D7E2EA, font-medium, centered, leading-relaxed, max-w-[560px], font size clamp(1rem, 2vw, 1.35rem). Each character animates from opacity 0.2 to 1 based on scroll progress, with scroll offset ['start 0.8', 'end 0.2'].
+   939→   939→
+   940→   940→Contact button below the text block. Gap between heading/text: gap-10 sm\:gap-14 md\:gap-16. Gap between text block and button: gap-16 sm\:gap-20 md\:gap-24.
+   941→   941→
+   942→   942→4\. SERVICES SECTION
+   943→   943→White background (#FFFFFF), with rounded-t-[40px] sm\:rounded-t-[50px] md\:rounded-t-[60px] top corners. Padding: px-5 sm\:px-8 md\:px-10 py-20 sm\:py-24 md\:py-32.
+   944→   944→
+   945→   945→Heading: "Services" in #0C0C0C, font-black, uppercase, centered, font size clamp(3rem, 12vw, 160px). Margin bottom: mb-16 sm\:mb-20 md\:mb-28.
+   946→   946→
+   947→   947→5 service items in a vertical list, max-w-5xl, centered:
+   948→   948→
+   949→   949→01 - 3D Modeling: "Creation of detailed objects, characters, or environments tailored to specific client needs, ideal for games, products, and visualizations."
+   950→   950→02 - Rendering: "High-quality, photorealistic renders that showcase designs with custom lighting, textures, and materials to bring concepts to life."
+   951→   951→03 - Motion Design: "Dynamic animations and motion graphics that add energy and storytelling to brands, products, and digital experiences."
+   952→   952→04 - Branding: "Crafting cohesive visual identities -- from logos to full brand systems -- that communicate a clear and memorable presence."
+   953→   953→05 - Web Design: "Designing clean, modern, and conversion-focused websites with attention to layout, typography, and user experience."
+   954→   954→Each item: horizontal layout with number (font-black, font size clamp(3rem, 10vw, 140px), color #0C0C0C) on the left and name + description stacked vertically on the right. Name: font-medium, uppercase, font size clamp(1rem, 2.2vw, 2.1rem). Description: font-light, leading-relaxed, max-w-2xl, font size clamp(0.85rem, 1.6vw, 1.25rem), opacity 0.6. Items separated by 1px borders (rgba(12, 12, 12, 0.15)). Padding: py-8 sm\:py-10 md\:py-12. Staggered FadeIn: each item delays by i \* 0.1.
+   955→   955→
+   956→   956→5\. PROJECTS SECTION
+   957→   957→Dark background (#0C0C0C), rounded top corners rounded-t-[40px] sm\:rounded-t-[50px] md\:rounded-t-[60px], pulled up with -mt-10 sm:-mt-12 md:-mt-14, z-10.
+   958→   958→
+   959→   959→Heading: "Project" (singular) using .hero-heading gradient, same styling as other headings.
+   960→   960→
+   961→   961→3 sticky-stacking project cards that scale down as you scroll past them (card stacking effect using Framer Motion useScroll and useTransform). Each card is sticky top-24 md\:top-32 inside an h-[85vh] container.
+   962→   962→
+   963→   963→Scale calculation: targetScale = 1 - (totalCards - 1 - index) \* 0.03. Each card offset by top: ${index \* 28}px.
+   964→   964→
+   965→   965→Each card has: rounded-[40px] sm\:rounded-[50px] md\:rounded-[60px], border-2 border-[#D7E2EA], background #0C0C0C, padding p-4 sm\:p-6 md\:p-8.
+   966→   966→
+   967→   967→Card layout:
+   968→   968→
+   969→   969→Top row: Number (huge, same style as services), category label, project name, and a "Live Project" ghost button (rounded-full, border-2 #D7E2EA, uppercase, tracking-widest).
+   970→   970→Bottom row: Two-column image grid -- left column (40% width) has 2 stacked images, right column (60%) has 1 tall image. All images have heavy border radius rounded-[40px] sm\:rounded-[50px] md\:rounded-[60px]. Left top image height: clamp(130px, 16vw, 230px). Left bottom image height: clamp(160px, 22vw, 340px).
+   971→   971→Project data with CloudFront image URLs:
+   972→   972→
+   973→   973→Project 01 - "Nextlevel Studio" (Client):
+   974→   974→
+   975→   975→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055344\_5eff02e0-87a5-41ce-b64f-eb08da8f33db.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055344_5eff02e0-87a5-41ce-b64f-eb08da8f33db.png\&w=1280\&q=85)
+   976→   976→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055431\_11d841fd-8b41-46a5-82e4-b04f2407a7d8.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055431_11d841fd-8b41-46a5-82e4-b04f2407a7d8.png\&w=1280\&q=85)
+   977→   977→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055451\_e317bf2d-28d4-48cc-86b0-6f72f25b6327.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055451_e317bf2d-28d4-48cc-86b0-6f72f25b6327.png\&w=1280\&q=85)
+   978→   978→Project 02 - "Aura Brand Identity" (Personal):
+   979→   979→
+   980→   980→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055654\_911201c5-36d9-4bc6-bac7-331adfce159f.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055654_911201c5-36d9-4bc6-bac7-331adfce159f.png\&w=1280\&q=85)
+   981→   981→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055723\_5ceda0b8-d9c2-4665-b2e3-83ba19ba76d1.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055723_5ceda0b8-d9c2-4665-b2e3-83ba19ba76d1.png\&w=1280\&q=85)
+   982→   982→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055753\_adc5dcbd-a8e6-49c0-b43a-9b030d835cea.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055753_adc5dcbd-a8e6-49c0-b43a-9b030d835cea.png\&w=1280\&q=85)
+   983→   983→Project 03 - "Solaris Digital" (Client):
+   984→   984→
+   985→   985→Col1 image 1: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055759\_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055759_963cfb0b-4bd1-4b0f-9d0a-09bd6cf95b2f.png\&w=1280\&q=85)
+   986→   986→Col1 image 2: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_060108\_438f781a-9846-4dcc-89ab-c4e6cb830f5b.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_060108_438f781a-9846-4dcc-89ab-c4e6cb830f5b.png\&w=1280\&q=85)
+   987→   987→Col2 image: [https://images.higgs.ai/?default=1&output=webp&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser\_38xzZboKViGWJOttwIXH07lWA1P%2Fhf\_20260412\_055818\_9d062121-ad7e-46b9-999a-1a6a692ef1ee.png&w=1280&q=85](https://images.higgs.ai/?default=1\&output=webp\&url=https%3A%2F%2Fd8j0ntlcm91z4.cloudfront.net%2Fuser_38xzZboKViGWJOttwIXH07lWA1P%2Fhf_20260412_055818_9d062121-ad7e-46b9-999a-1a6a692ef1ee.png\&w=1280\&q=85)
+   988→   988→REUSABLE COMPONENTS
+   989→   989→ContactButton: Rounded-full pill button with gradient background linear-gradient(123deg, #18011F 7%, #B600A8 37%, #7621B0 72%, #BE4C00 100%), inner box-shadow 0px 4px 4px rgba(181, 1, 167, 0.25), 4px 4px 12px #7721B1 inset, white 2px outline with -3px offset. Text: white, font-medium, uppercase, tracking-widest. Sizes: px-8 py-3 sm\:px-10 sm\:py-3.5 md\:px-12 md\:py-4, text text-xs sm\:text-sm md\:text-base. Label: "Contact Me".
+   990→   990→
+   991→   991→LiveProjectButton: Ghost/outline pill button. Rounded-full, border-2 border-[#D7E2EA], text color #D7E2EA, font-medium, uppercase, tracking-widest. Sizes: px-8 py-3 sm\:px-10 sm\:py-3.5, text text-sm sm\:text-base. Hover: bg-[#D7E2EA]/10. Label: "Live Project".
+   992→   992→
+   993→   993→FadeIn: Framer Motion wrapper using whileInView with viewport={{ once: true, margin: "50px", amount: 0 }}. Accepts delay, duration (default 0.7), x (default 0), y (default 30). Easing: [0.25, 0.1, 0.25, 1]. Uses motion.create() for dynamic element types.
+   994→   994→
+   995→   995→Magnet: Mouse-following magnetic hover effect. Tracks mouse position relative to element center, applies translate3d transform divided by strength factor. Activates when cursor is within padding distance of element edge. Smooth transition in (0.3s ease-out) and out (0.6s ease-in-out). Uses willChange: 'transform'.
+   996→   996→
+   997→   997→AnimatedText: Character-by-character scroll-reveal text animation. Each character goes from opacity 0.2 to 1 based on its position in the text relative to scroll progress. Uses Framer Motion useScroll targeting the paragraph element with offset ['start 0.8', 'end 0.2']. Each character uses invisible placeholder + absolute positioned animated span.
+   998→   998→
+   999→   999→KEY DEPENDENCIES
+  1000→  1000→react, react-dom (^18.3.1)
+  1001→  1001→framer-motion (^12.38.0)
+  1002→  1002→lucide-react (^0.344.0)
+  1003→  1003→tailwindcss (^3.4.1)
+  1004→  1004→vite, typescript
+  1005→  1005→RESPONSIVE BREAKPOINTS
+  1006→  1006→All sections use Tailwind's default breakpoints (sm: 640px, md: 768px, lg: 1024px) with mobile-first approach. Heavy use of clamp() for fluid typography. The entire design scales gracefully from mobile to ultra-wide screens.
