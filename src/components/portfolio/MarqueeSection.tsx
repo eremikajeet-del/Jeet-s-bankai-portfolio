@@ -2,19 +2,33 @@
 
 import { useEffect, useRef, useState } from 'react';
 
-const COLORS_ROW1 = [
-  '#1a1a2e', '#16213e', '#0f3460', '#533483', '#e94560', '#1a1a2e',
+import Image from 'next/image';
+
+const IMAGES_ROW1 = [
+  '/projects/user/1.jpg',
+  '/projects/user/2.jpg',
+  '/projects/user/3.jpg',
+  '/projects/user/4.jpg',
+  '/projects/user/5.png',
+  '/projects/user/6.png',
 ];
-const COLORS_ROW2 = [
-  '#0f3460', '#533483', '#e94560', '#1a1a2e', '#16213e', '#0f3460',
+const IMAGES_ROW2 = [
+  '/projects/user/7.jpg',
+  '/projects/user/8.jpg',
+  '/projects/user/9.jpg',
+  '/projects/user/1.jpg',
+  '/projects/user/2.jpg',
+  '/projects/user/3.jpg',
 ];
 
-function Tile({ color, w, h }: { color: string; w: number; h: number }) {
+function Tile({ src, w, h }: { src: string; w: number; h: number }) {
   return (
     <div
-      className="shrink-0 rounded-2xl"
-      style={{ width: w, height: h, background: color }}
-    />
+      className="shrink-0 rounded-2xl relative overflow-hidden bg-[#16213e]"
+      style={{ width: w, height: h }}
+    >
+      <Image src={src} alt="Project snippet" fill className="object-cover" />
+    </div>
   );
 }
 
@@ -48,8 +62,8 @@ export default function MarqueeSection() {
             willChange: 'transform' as const,
           }}
         >
-          {[...COLORS_ROW1, ...COLORS_ROW1].map((c, i) => (
-            <Tile key={i} color={c} w={420} h={270} />
+          {[...IMAGES_ROW1, ...IMAGES_ROW1].map((src, i) => (
+            <Tile key={i} src={src} w={420} h={270} />
           ))}
         </div>
         <div
@@ -59,8 +73,8 @@ export default function MarqueeSection() {
             willChange: 'transform' as const,
           }}
         >
-          {[...COLORS_ROW2, ...COLORS_ROW2].map((c, i) => (
-            <Tile key={i} color={c} w={420} h={270} />
+          {[...IMAGES_ROW2, ...IMAGES_ROW2].map((src, i) => (
+            <Tile key={i} src={src} w={420} h={270} />
           ))}
         </div>
       </div>
