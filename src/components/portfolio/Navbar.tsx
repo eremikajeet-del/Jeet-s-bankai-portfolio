@@ -4,9 +4,10 @@ import Link from 'next/link';
 import { motion } from 'framer-motion';
 
 const NAV_LINKS = [
-  { label: 'Work', href: '/work' },
-  { label: 'Services', href: '/#services' },
+  { label: 'Home', href: '/' },
   { label: 'About', href: '/about' },
+  { label: 'Services', href: '/#services' },
+  { label: 'Work', href: '/work' },
   { label: 'Contact', href: '/contact' },
 ];
 
