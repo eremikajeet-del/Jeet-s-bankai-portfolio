@@ -4,37 +4,12 @@ import FadeIn from './FadeIn';
 import Magnet from './Magnet';
 import ContactButton from './ContactButton';
 
-const NAV_LINKS = [
-  { label: 'About', href: '#about' },
-  { label: 'Services', href: '#services' },
-  { label: 'Projects', href: '#projects' },
-  { label: 'Contact', href: 'https://wa.me/919970313187' },
-];
+
 
 export default function HeroSection() {
   return (
     <section className="h-screen flex flex-col" style={{ overflowX: 'clip' }}>
-      {/* Navbar */}
-      <FadeIn delay={0} y={-20}>
-        <nav className="flex justify-between items-center px-6 md:px-10 pt-6 md:pt-8">
-          {NAV_LINKS.map((link) => (
-            <a
-              key={link.label}
-              href={link.href}
-              target={link.href.startsWith('http') ? '_blank' : undefined}
-              rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
-              className="
-                text-[#D7E2EA] font-medium uppercase tracking-wider
-                text-sm md:text-lg lg:text-[1.4rem]
-                hover:opacity-70 transition-opacity duration-200
-                no-underline
-              "
-            >
-              {link.label}
-            </a>
-          ))}
-        </nav>
-      </FadeIn>
+
 
       {/* Hero Heading */}
       <FadeIn delay={0.15} y={40}>

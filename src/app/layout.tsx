@@ -14,6 +14,8 @@ export const metadata: Metadata = {
     "Full-Stack Developer building high-quality websites and web applications for businesses.",
 };
 
+import Navbar from "@/components/portfolio/Navbar";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -21,7 +23,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={kanit.variable}>
-      <body>{children}</body>
+      <body className="bg-[#0C0C0C] text-[#D7E2EA]">
+        <Navbar />
+        {children}
+      </body>
     </html>
   );
 }

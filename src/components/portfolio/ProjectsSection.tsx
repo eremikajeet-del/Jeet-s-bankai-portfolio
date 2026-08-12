@@ -39,7 +39,9 @@ const PROJECTS = [
   },
 ];
 
-export default function ProjectsSection() {
+export default function ProjectsSection({ limit, showCTA }: { limit?: number, showCTA?: boolean }) {
+  const displayProjects = limit ? PROJECTS.slice(0, limit) : PROJECTS;
+
   return (
     <section
       id="projects"
@@ -56,12 +58,12 @@ export default function ProjectsSection() {
           className="hero-heading font-black uppercase leading-none tracking-tight text-center mb-12 sm:mb-16 md:mb-20"
           style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
         >
-          Project
+          {limit ? 'Selected Work' : 'Projects'}
         </h2>
       </FadeIn>
 
       <div className="max-w-6xl mx-auto flex flex-col gap-16 sm:gap-20 md:gap-24 pb-20">
-        {PROJECTS.map((project, i) => (
+        {displayProjects.map((project, i) => (
           <FadeIn key={project.num} delay={i * 0.1}>
             <div
               className="
@@ -138,6 +140,23 @@ export default function ProjectsSection() {
             </div>
           </FadeIn>
         ))}
+
+        {showCTA && (
+          <FadeIn delay={0.2} y={20}>
+            <div className="flex justify-center mt-8">
+              <a 
+                href="/work" 
+                className="
+                  border border-[#D7E2EA] text-[#D7E2EA] 
+                  px-8 py-4 rounded-full font-medium uppercase tracking-wider
+                  hover:bg-[#D7E2EA] hover:text-[#0c0c0c] transition-colors duration-300
+                "
+              >
+                View All Work
+              </a>
+            </div>
+          </FadeIn>
+        )}
       </div>
     </section>
   );
