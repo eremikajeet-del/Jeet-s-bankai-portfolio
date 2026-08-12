@@ -1,7 +1,6 @@
 'use client';
 
 import FadeIn from './FadeIn';
-import Magnet from './Magnet';
 import ContactButton from './ContactButton';
 
 
@@ -26,32 +25,6 @@ export default function HeroSection() {
         </div>
       </FadeIn>
 
-      {/* Hero Portrait */}
-      <FadeIn delay={0.6} y={30}>
-        <Magnet
-          padding={150}
-          strength={3}
-          activeTransition="transform 0.3s ease-out"
-          inactiveTransition="transform 0.6s ease-in-out"
-          className="
-            absolute left-1/2 -translate-x-1/2 z-10
-            w-[280px] sm:w-[360px] md:w-[440px] lg:w-[520px]
-            top-1/2 -translate-y-1/2
-            sm:top-auto sm:translate-y-0 sm:bottom-0
-          "
-        >
-          <div
-            className="
-              w-full aspect-[3/4] rounded-full
-              bg-gradient-to-br from-[#1a1a2e] via-[#16213e] to-[#0f3460]
-              opacity-40
-            "
-            style={{
-              filter: 'blur(1px)',
-            }}
-          />
-        </Magnet>
-      </FadeIn>
 
       {/* Bottom Bar */}
       <div className="flex justify-between items-end pb-7 sm:pb-8 md:pb-10 mt-auto">
