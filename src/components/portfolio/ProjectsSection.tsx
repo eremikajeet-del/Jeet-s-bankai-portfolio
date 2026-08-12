@@ -46,7 +46,7 @@ export default function ProjectsSection({ limit, showCTA }: { limit?: number, sh
     <section
       id="projects"
       className="
-        bg-[#0C0C0C]
+        bg-surface-base
         rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px]
         -mt-10 sm:-mt-12 md:-mt-14
         z-10 relative
@@ -67,9 +67,9 @@ export default function ProjectsSection({ limit, showCTA }: { limit?: number, sh
           <FadeIn key={project.num} delay={i * 0.1}>
             <div
               className="
+                border-2 border-border-muted
+                bg-surface-base
                 rounded-[40px] sm:rounded-[50px] md:rounded-[60px]
-                border-2 border-[#D7E2EA]
-                bg-[#0C0C0C]
                 p-4 sm:p-6 md:p-8
               "
             >
@@ -77,20 +77,20 @@ export default function ProjectsSection({ limit, showCTA }: { limit?: number, sh
               <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-3 sm:gap-4 mb-4 sm:mb-6">
                 <div className="flex items-center gap-3 sm:gap-4 flex-wrap">
                   <span
-                    className="font-black leading-none shrink-0 text-[#D7E2EA]"
+                    className="font-black leading-none shrink-0 text-text-tertiary"
                     style={{ fontSize: 'clamp(3rem, 10vw, 140px)' }}
                   >
                     {project.num}
                   </span>
                   <div className="flex flex-col gap-0.5 sm:gap-1">
                     <span
-                      className="text-[#D7E2EA] uppercase tracking-widest font-light"
+                      className="text-text-tertiary uppercase tracking-widest font-light"
                       style={{ fontSize: 'clamp(0.65rem, 1.2vw, 0.85rem)' }}
                     >
                       {project.category}
                     </span>
                     <h3
-                      className="font-medium uppercase text-[#D7E2EA]"
+                      className="font-medium uppercase text-text-tertiary"
                       style={{ fontSize: 'clamp(1.2rem, 3vw, 2.5rem)' }}
                     >
                       {project.name}
@@ -147,9 +147,9 @@ export default function ProjectsSection({ limit, showCTA }: { limit?: number, sh
               <a 
                 href="/work" 
                 className="
-                  border border-[#D7E2EA] text-[#D7E2EA] 
-                  px-8 py-4 rounded-full font-medium uppercase tracking-wider
-                  hover:bg-[#D7E2EA] hover:text-[#0c0c0c] transition-colors duration-300
+                  inline-block px-10 py-4 rounded-full uppercase tracking-widest font-black text-sm
+                  border border-border-default text-text-tertiary 
+                  hover:bg-surface-strong hover:text-surface-base transition-colors duration-300
                 "
               >
                 View All Work

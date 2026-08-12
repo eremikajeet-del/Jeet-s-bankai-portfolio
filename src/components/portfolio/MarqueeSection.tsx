@@ -24,7 +24,7 @@ const IMAGES_ROW2 = [
 function Tile({ src, w, h }: { src: string; w: number; h: number }) {
   return (
     <div
-      className="shrink-0 rounded-2xl relative overflow-hidden bg-[#16213e]"
+      className="shrink-0 rounded-2xl relative overflow-hidden bg-surface-strong"
       style={{ width: w, height: h }}
     >
       <Image src={src} alt="Project snippet" fill className="object-cover" />

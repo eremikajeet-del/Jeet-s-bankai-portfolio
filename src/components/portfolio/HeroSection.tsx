@@ -29,11 +29,11 @@ export default function HeroSection() {
       {/* Bottom Bar */}
       <div className="flex justify-between items-end pb-7 sm:pb-8 md:pb-10 mt-auto">
         <FadeIn delay={0.35} y={20}>
-          <p
-            className="
-              text-[#D7E2EA] font-light uppercase tracking-wide leading-snug
-              max-w-[160px] sm:max-w-[220px] md:max-w-[260px]
-            "
+            <p
+              className="
+              text-text-tertiary font-light uppercase tracking-wide leading-snug
+              text-center max-w-[80vw] sm:max-w-2xl
+              "
             style={{ fontSize: 'clamp(0.75rem, 1.4vw, 1.5rem)' }}
           >
             Full-Stack Developer building digital experiences that help businesses grow

@@ -76,7 +76,7 @@ export default function AboutSection() {
           <AnimatedText
             text="I turn ideas into digital experiences that help businesses get online, reach more customers, and grow."
             className="
-              text-[#D7E2EA] font-medium text-center leading-relaxed
+              text-text-tertiary font-medium text-center leading-relaxed
               max-w-[560px]
             "
             style={{ fontSize: 'clamp(1rem, 2vw, 1.35rem)' } as React.CSSProperties}

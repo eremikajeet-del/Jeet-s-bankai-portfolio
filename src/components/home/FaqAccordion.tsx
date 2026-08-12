@@ -17,7 +17,7 @@ export default function FaqAccordion() {
   return (
     <section className="py-20 px-6 md:px-10 max-w-4xl mx-auto">
       <FadeIn delay={0.1} y={20}>
-        <h2 className="text-[#D7E2EA] font-bold text-3xl md:text-5xl uppercase tracking-tight text-center mb-12">
+        <h2 className="text-text-tertiary font-bold text-3xl md:text-5xl uppercase tracking-tight text-center mb-12">
           Got questions?
         </h2>
       </FadeIn>
@@ -30,16 +30,16 @@ export default function FaqAccordion() {
             <FadeIn key={i} delay={i * 0.15} y={20}>
               <div 
                 onClick={() => setOpenIndex(isOpen ? null : i)}
-                className="bg-transparent border border-[#D7E2EA]/20 rounded-[20px] p-6 cursor-pointer hover:bg-[#D7E2EA]/5 transition-colors overflow-hidden"
+                className="bg-transparent border border-border-muted/20 rounded-[20px] p-6 cursor-pointer hover:bg-text-tertiary/5 transition-colors overflow-hidden"
               >
                 <div className="flex justify-between items-center">
-                  <h3 className="text-[#D7E2EA] font-medium text-lg md:text-xl">{faq.q}</h3>
+                  <h3 className="text-text-tertiary font-medium text-lg md:text-xl">{faq.q}</h3>
                   <motion.div 
                     animate={{ rotate: isOpen ? 45 : 0 }}
                     transition={{ type: 'spring', stiffness: 300, damping: 20 }}
-                    className="w-8 h-8 rounded-full border border-[#D7E2EA]/40 flex items-center justify-center shrink-0"
+                    className="w-8 h-8 rounded-full border border-border-muted/40 flex items-center justify-center shrink-0"
                   >
-                    <span className="text-[#D7E2EA]">+</span>
+                    <span className="text-text-tertiary">+</span>
                   </motion.div>
                 </div>
                 
@@ -51,7 +51,7 @@ export default function FaqAccordion() {
                       exit={{ height: 0, opacity: 0 }}
                       transition={{ duration: 0.3, ease: [0.23, 1, 0.32, 1] }}
                     >
-                      <p className="pt-4 text-[#D7E2EA]/70 font-light leading-relaxed">
+                      <p className="pt-4 text-text-tertiary/70 font-light leading-relaxed">
                         {faq.a}
                       </p>
                     </motion.div>

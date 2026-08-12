@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function AboutPage() {
   return (
-    <main className="bg-[#0C0C0C] min-h-screen pt-32 pb-20 px-6 md:px-10" style={{ overflowX: 'clip' }}>
+    <main className="bg-surface-base min-h-screen pt-32 pb-20 px-6 md:px-10" style={{ overflowX: 'clip' }}>
       <div className="max-w-4xl mx-auto flex flex-col gap-12 sm:gap-16">
         <FadeIn delay={0} y={30}>
           <h1 
@@ -19,7 +19,7 @@ export default function AboutPage() {
         </FadeIn>
 
         <FadeIn delay={0.1} y={20}>
-          <div className="text-[#D7E2EA] font-light text-lg sm:text-xl md:text-2xl leading-relaxed flex flex-col gap-6">
+          <div className="text-text-tertiary font-light text-lg sm:text-xl md:text-2xl leading-relaxed flex flex-col gap-6">
             <p>
               I am a Class 12 student and a self-taught developer. I build websites and digital 
               experiences because I love the process of turning ideas into functional software.
@@ -33,10 +33,10 @@ export default function AboutPage() {
         </FadeIn>
 
         <FadeIn delay={0.2} y={20}>
-          <div className="mt-8 border-t border-[#D7E2EA]/20 pt-12 grid grid-cols-1 md:grid-cols-2 gap-12">
+          <div className="mt-8 border-t border-border-muted/20 pt-12 grid grid-cols-1 md:grid-cols-2 gap-12">
             <div>
-              <h2 className="text-[#D7E2EA] font-bold text-2xl uppercase tracking-wider mb-6">What I&apos;m Learning</h2>
-              <ul className="text-[#D7E2EA]/80 font-light text-lg flex flex-col gap-3">
+              <h2 className="text-text-tertiary font-bold text-2xl uppercase tracking-wider mb-6">What I&apos;m Learning</h2>
+              <ul className="text-text-tertiary/80 font-light text-lg flex flex-col gap-3">
                 <li>Advanced React Patterns</li>
                 <li>Next.js App Router</li>
                 <li>UI/UX Design Principles</li>
@@ -45,8 +45,8 @@ export default function AboutPage() {
             </div>
             
             <div>
-              <h2 className="text-[#D7E2EA] font-bold text-2xl uppercase tracking-wider mb-6">Tools I Use</h2>
-              <ul className="text-[#D7E2EA]/80 font-light text-lg flex flex-col gap-3">
+              <h2 className="text-text-tertiary font-bold text-2xl uppercase tracking-wider mb-6">Tools I Use</h2>
+              <ul className="text-text-tertiary/80 font-light text-lg flex flex-col gap-3">
                 <li>React & Next.js</li>
                 <li>Tailwind CSS</li>
                 <li>Framer Motion</li>

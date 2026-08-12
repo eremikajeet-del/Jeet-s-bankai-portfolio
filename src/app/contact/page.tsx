@@ -14,7 +14,7 @@ const SOCIAL_LINKS = [
 
 export default function ContactPage() {
   return (
-    <main className="bg-[#0C0C0C] min-h-screen pt-32 pb-20 px-6 md:px-10 flex flex-col justify-center" style={{ overflowX: 'clip' }}>
+    <main className="bg-surface-base min-h-screen pt-32 pb-20 px-6 md:px-10 flex flex-col justify-center" style={{ overflowX: 'clip' }}>
       <div className="max-w-4xl mx-auto w-full flex flex-col gap-12 sm:gap-16">
         <FadeIn delay={0} y={30}>
           <h1 
@@ -26,7 +26,7 @@ export default function ContactPage() {
         </FadeIn>
 
         <FadeIn delay={0.1} y={20}>
-          <p className="text-[#D7E2EA] font-light text-xl md:text-2xl max-w-2xl">
+          <p className="text-text-tertiary font-light text-xl md:text-2xl max-w-2xl">
             I work directly with clients to build websites that meet their specific needs.
           </p>
         </FadeIn>
@@ -39,7 +39,7 @@ export default function ContactPage() {
                 href={link.href}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-[#D7E2EA] font-medium uppercase tracking-wider text-xl hover:text-white hover:underline transition-all duration-300"
+                className="text-text-tertiary font-medium uppercase tracking-wider text-xl hover:text-white hover:underline transition-all duration-300"
               >
                 {link.name}
               </a>

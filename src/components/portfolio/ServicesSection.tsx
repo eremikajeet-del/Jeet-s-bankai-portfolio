@@ -40,18 +40,18 @@ export default function ServicesSection() {
     <section
       id="services"
       className="
-        bg-white rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px]
+        bg-surface-strong rounded-t-[40px] sm:rounded-t-[50px] md:rounded-t-[60px]
         px-5 sm:px-8 md:px-10 py-20 sm:py-24 md:py-32
       "
     >
       <FadeIn delay={0} y={40}>
         <h2
           className="
-            text-[#0C0C0C] font-black uppercase text-center
+            text-text-primary font-black uppercase text-center
           "
           style={{ fontSize: 'clamp(3rem, 12vw, 160px)' }}
         >
-          Services
+          SERVICES
         </h2>
       </FadeIn>
 

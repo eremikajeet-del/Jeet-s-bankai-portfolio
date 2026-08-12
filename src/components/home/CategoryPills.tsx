@@ -20,8 +20,8 @@ export default function CategoryPills() {
               className={`
                 px-6 py-3 rounded-full text-sm sm:text-base font-medium uppercase tracking-wider transition-colors
                 ${i === 0 
-                  ? 'bg-[#D7E2EA] text-[#0C0C0C]' 
-                  : 'border border-[#D7E2EA]/30 text-[#D7E2EA] hover:border-[#D7E2EA] hover:bg-[#D7E2EA]/10'}
+                  ? 'bg-text-tertiary text-surface-base' 
+                  : 'border border-border-muted/30 text-text-tertiary hover:border-border-default hover:bg-text-tertiary/10'}
               `}
             >
               {cat}

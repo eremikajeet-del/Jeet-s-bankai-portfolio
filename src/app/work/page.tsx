@@ -7,7 +7,7 @@ export const metadata = {
 
 export default function WorkPage() {
   return (
-    <main className="bg-[#0C0C0C] min-h-screen pt-24 md:pt-32" style={{ overflowX: 'clip' }}>
+    <main className="bg-surface-base min-h-screen pt-24 md:pt-32" style={{ overflowX: 'clip' }}>
       <ProjectsSection />
     </main>
   );

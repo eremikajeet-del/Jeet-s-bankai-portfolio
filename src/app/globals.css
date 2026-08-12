@@ -1,14 +1,54 @@
 @import "tailwindcss";
 @source "../components";
 
+@theme {
+  --font-sans: var(--font-outfit), "Outfit Fallback", sans-serif;
+
+  /* webCros Color Palette */
+  --color-text-primary: #222222;
+  --color-text-tertiary: #ffffff;
+  --color-text-inverse: #7a7a7a;
+  
+  --color-surface-base: #000000;
+  --color-surface-strong: #f7f7f7;
+  
+  --color-border-default: lab(90.952 0 -0.0000119209);
+  --color-border-muted: #262626;
+  --color-border-strong: #2a2a2a;
+
+  /* webCros Spacing Scale */
+  --spacing-1: 1.5px;
+  --spacing-2: 6px;
+  --spacing-3: 8px;
+  --spacing-4: 10px;
+  --spacing-5: 14px;
+  --spacing-6: 16px;
+  --spacing-7: 17px;
+  --spacing-8: 18px;
+
+  /* webCros Radius */
+  --radius-xs: 6px;
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 12px;
+  --radius-xl: 14px;
+  --radius-2xl: 9999px;
+
+  /* webCros Shadows */
+  --shadow-1: 0px 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 30px 0px rgba(0, 0, 0, 0.04);
+  --shadow-2: 0px 1px 2px 0px rgba(28, 25, 23, 0.06);
+  --shadow-3: 0px 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 30px 0px rgba(0, 0, 0, 0.06);
+}
+
 /* ===== Global Reset & Portfolio Styles ===== */
 html,
 body {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  background: #0C0C0C;
-  font-family: var(--font-kanit), 'Kanit', sans-serif;
+  background: var(--color-surface-base);
+  color: var(--color-text-tertiary);
+  font-family: var(--font-sans);
 }
 
 .hero-heading {

@@ -17,12 +17,12 @@ export default function Navbar() {
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.7, ease: [0.25, 0.1, 0.25, 1] }}
-      className="flex justify-between items-center px-6 md:px-10 pt-6 md:pt-8 w-full fixed top-0 z-50 bg-[#0c0c0c]/80 backdrop-blur-md"
+      className="flex justify-between items-center px-6 md:px-10 pt-6 md:pt-8 w-full fixed top-0 z-50 bg-surface-base/80 backdrop-blur-md"
     >
       <div className="flex w-full justify-between items-center mx-auto">
         <Link 
           href="/"
-          className="text-[#D7E2EA] font-bold uppercase tracking-wider text-xl md:text-2xl hover:opacity-70 transition-opacity"
+          className="text-text-tertiary font-bold uppercase tracking-wider text-xl md:text-2xl hover:opacity-70 transition-opacity"
         >
           Jeet
         </Link>
@@ -32,9 +32,9 @@ export default function Navbar() {
               key={link.label}
               href={link.href}
               className="
-                text-[#D7E2EA] font-medium uppercase tracking-wider
+                text-text-tertiary font-medium uppercase tracking-wider
                 text-sm md:text-lg lg:text-[1.4rem]
-                hover:opacity-70 transition-opacity duration-200
+                hover:text-text-primary transition-colors duration-200
                 no-underline
               "
             >

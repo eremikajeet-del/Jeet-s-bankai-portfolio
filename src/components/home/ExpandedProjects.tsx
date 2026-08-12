@@ -13,13 +13,13 @@ export default function ExpandedProjects() {
             <TiltCard>
               <div className="flex flex-col gap-4">
                 {/* Image Placeholder */}
-                <div className="w-full aspect-[4/3] rounded-[30px] border border-[#D7E2EA]/20 bg-[#D7E2EA]/5 flex items-center justify-center">
-                <span className="text-[#D7E2EA]/30 font-medium">Project Image {i}</span>
+                <div className="w-full aspect-[4/3] rounded-[30px] border border-border-muted/20 bg-text-tertiary/5 flex items-center justify-center">
+                <span className="text-text-tertiary/30 font-medium">Project Image {i}</span>
               </div>
               {/* Text Placeholder */}
               <div>
-                <h3 className="text-[#D7E2EA] font-semibold text-lg uppercase tracking-wide">Project Title {i}</h3>
-                <p className="text-[#D7E2EA]/60 font-light text-sm">UI/UX Design • Web Development</p>
+                <h3 className="text-text-tertiary font-semibold text-lg uppercase tracking-wide">Project Title {i}</h3>
+                <p className="text-text-tertiary/60 font-light text-sm">UI/UX Design • Web Development</p>
               </div>
             </div>
             </TiltCard>
@@ -28,7 +28,7 @@ export default function ExpandedProjects() {
       </div>
       
       <div className="flex justify-center mt-12">
-        <button className="px-8 py-3 rounded-full border border-[#D7E2EA] text-[#D7E2EA] font-medium uppercase tracking-wider hover:bg-[#D7E2EA] hover:text-[#0C0C0C] transition-colors">
+        <button className="px-8 py-3 rounded-full border border-border-default text-text-tertiary font-medium uppercase tracking-wider hover:bg-text-tertiary hover:text-surface-base transition-colors">
           Load More
         </button>
       </div>

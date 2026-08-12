@@ -17,7 +17,7 @@ import EnhancedFooter from '@/components/home/EnhancedFooter';
 
 export default function Home() {
   return (
-    <main className="bg-[#0C0C0C] min-h-screen" style={{ overflowX: 'clip' }}>
+    <main className="bg-surface-base min-h-screen" style={{ overflowX: 'clip' }}>
       <HeroSection />
       
       {/* New Category Pills below Hero */}
