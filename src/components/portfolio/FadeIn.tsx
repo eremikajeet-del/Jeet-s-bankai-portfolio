@@ -15,7 +15,7 @@ interface FadeInProps {
 export default function FadeIn({
   children,
   delay = 0,
-  duration = 0.7,
+  duration = 0.5, // Reduced for a snappier feel
   x = 0,
   y = 30,
   className,
@@ -29,7 +29,7 @@ export default function FadeIn({
       transition={{
         duration,
         delay,
-        ease: [0.25, 0.1, 0.25, 1],
+        ease: [0.23, 1, 0.32, 1], // Strong ease-out for premium feel
       }}
     >
       {children}

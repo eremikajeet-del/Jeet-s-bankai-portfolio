@@ -19,12 +19,14 @@ export default function FeaturesList() {
           </h2>
           <ul className="flex flex-col gap-6">
             {features.map((feature, i) => (
-              <li key={i} className="flex items-center gap-4 text-[#D7E2EA]/80 text-lg md:text-xl font-light">
-                <div className="w-8 h-8 rounded-full bg-[#D7E2EA]/10 flex items-center justify-center shrink-0">
-                  <div className="w-3 h-3 rounded-full bg-[#D7E2EA]"></div>
-                </div>
-                {feature}
-              </li>
+              <FadeIn key={i} delay={0.3 + (i * 0.1)} y={20}>
+                <li className="flex items-center gap-4 text-[#D7E2EA]/80 text-lg md:text-xl font-light">
+                  <div className="w-8 h-8 rounded-full bg-[#D7E2EA]/10 flex items-center justify-center shrink-0">
+                    <div className="w-3 h-3 rounded-full bg-[#D7E2EA]"></div>
+                  </div>
+                  {feature}
+                </li>
+              </FadeIn>
             ))}
           </ul>
         </div>

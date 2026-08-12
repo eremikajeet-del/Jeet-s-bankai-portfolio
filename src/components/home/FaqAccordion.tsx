@@ -1,13 +1,17 @@
 'use client';
 
+import { useState } from 'react';
 import FadeIn from '@/components/portfolio/FadeIn';
+import { motion, AnimatePresence } from 'framer-motion';
 
 export default function FaqAccordion() {
+  const [openIndex, setOpenIndex] = useState<number | null>(null);
+
   const faqs = [
-    'How long does a website take to build?',
-    'What is your design process?',
-    'Do you offer maintenance after launch?',
-    'How much does a custom website cost?'
+    { q: 'How long does a website take to build?', a: 'Typically, a custom website takes between 2-6 weeks depending on the complexity, number of pages, and features required.' },
+    { q: 'What is your design process?', a: 'I start with a discovery phase to understand your goals, move to wireframing and prototyping, and finally develop the high-fidelity site once the design is approved.' },
+    { q: 'Do you offer maintenance after launch?', a: 'Yes, I offer ongoing maintenance and support packages to ensure your website remains secure, fast, and up-to-date.' },
+    { q: 'How much does a custom website cost?', a: 'Projects vary based on requirements. A simple landing page might start at a lower price point, while full web apps or e-commerce sites will scale according to features.' }
   ];
 
   return (
@@ -19,16 +23,44 @@ export default function FaqAccordion() {
       </FadeIn>
 
       <div className="flex flex-col gap-4">
-        {faqs.map((faq, i) => (
-          <FadeIn key={i} delay={i * 0.15} y={20}>
-            <div className="bg-transparent border border-[#D7E2EA]/20 rounded-[20px] p-6 flex justify-between items-center cursor-pointer hover:bg-[#D7E2EA]/5 transition-colors">
-              <h3 className="text-[#D7E2EA] font-medium text-lg md:text-xl">{faq}</h3>
-              <div className="w-8 h-8 rounded-full border border-[#D7E2EA]/40 flex items-center justify-center shrink-0">
-                <span className="text-[#D7E2EA]">+</span>
+        {faqs.map((faq, i) => {
+          const isOpen = openIndex === i;
+          
+          return (
+            <FadeIn key={i} delay={i * 0.15} y={20}>
+              <div 
+                onClick={() => setOpenIndex(isOpen ? null : i)}
+                className="bg-transparent border border-[#D7E2EA]/20 rounded-[20px] p-6 cursor-pointer hover:bg-[#D7E2EA]/5 transition-colors overflow-hidden"
+              >
+                <div className="flex justify-between items-center">
+                  <h3 className="text-[#D7E2EA] font-medium text-lg md:text-xl">{faq.q}</h3>
+                  <motion.div 
+                    animate={{ rotate: isOpen ? 45 : 0 }}
+                    transition={{ type: 'spring', stiffness: 300, damping: 20 }}
+                    className="w-8 h-8 rounded-full border border-[#D7E2EA]/40 flex items-center justify-center shrink-0"
+                  >
+                    <span className="text-[#D7E2EA]">+</span>
+                  </motion.div>
+                </div>
+                
+                <AnimatePresence>
+                  {isOpen && (
+                    <motion.div
+                      initial={{ height: 0, opacity: 0 }}
+                      animate={{ height: 'auto', opacity: 1 }}
+                      exit={{ height: 0, opacity: 0 }}
+                      transition={{ duration: 0.3, ease: [0.23, 1, 0.32, 1] }}
+                    >
+                      <p className="pt-4 text-[#D7E2EA]/70 font-light leading-relaxed">
+                        {faq.a}
+                      </p>
+                    </motion.div>
+                  )}
+                </AnimatePresence>
               </div>
-            </div>
-          </FadeIn>
-        ))}
+            </FadeIn>
+          );
+        })}
       </div>
     </section>
   );
