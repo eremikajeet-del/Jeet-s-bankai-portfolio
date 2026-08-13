@@ -13,7 +13,7 @@ import ComparisonCards from '@/components/home/ComparisonCards';
 import ResponsiveShowcase from '@/components/home/ResponsiveShowcase';
 import TestimonialsGrid from '@/components/home/TestimonialsGrid';
 import FaqAccordion from '@/components/home/FaqAccordion';
-import EnhancedFooter from '@/components/home/EnhancedFooter';
+import ContactFooter from '@/components/home/ContactFooter';
 
 export default function Home() {
   return (
@@ -39,7 +39,7 @@ export default function Home() {
       <ResponsiveShowcase />
       <TestimonialsGrid />
       <FaqAccordion />
-      <EnhancedFooter />
+      <ContactFooter />
     </main>
   );
 }
