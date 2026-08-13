@@ -22,16 +22,17 @@ export default function ContactFooter() {
               {/* Profile Card */}
               <div className="bg-[#111111] border border-white/10 rounded-sm overflow-hidden mb-16 max-w-sm">
                 <div className="relative h-48 w-full bg-[#1a1a1a]">
-                  {/* Decorative element for top placeholder image */}
-                  <div className="absolute top-4 right-4 flex gap-2 opacity-50">
-                     <div className="w-8 h-2 bg-white/20 skew-x-12"></div>
-                     <div className="w-8 h-2 bg-white/20 skew-x-12"></div>
-                     <div className="w-8 h-2 bg-white/20 skew-x-12"></div>
-                  </div>
+                  {/* The uploaded image goes here. Save it as public/contact-team.jpg */}
+                  <Image 
+                    src="/contact-team.jpg" 
+                    alt="Creative Team" 
+                    fill 
+                    className="object-cover grayscale" 
+                  />
                   {/* Fake profile overlay in the corner */}
-                  <div className="absolute bottom-4 left-4 bg-black/50 backdrop-blur-md rounded-full py-1.5 px-3 flex items-center gap-2 border border-white/10">
-                     <div className="w-6 h-6 rounded-full bg-orange-200 overflow-hidden relative">
-                        <div className="absolute inset-0 bg-black/10"></div>
+                  <div className="absolute bottom-4 left-4 bg-black/50 backdrop-blur-md rounded-full py-1.5 px-3 flex items-center gap-2 border border-white/10 z-10">
+                     <div className="w-6 h-6 rounded-full overflow-hidden relative">
+                        <Image src="/contact-team.jpg" alt="Mohammad Ehsan" fill className="object-cover" />
                      </div>
                      <span className="text-xs font-bold text-white tracking-wide">Mohammad Ehsan</span>
                   </div>
