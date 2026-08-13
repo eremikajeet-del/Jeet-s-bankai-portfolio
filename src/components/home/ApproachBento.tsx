@@ -131,33 +131,36 @@ export default function ApproachBento() {
               </h3>
             </div>
             
-            <ul className="flex flex-col gap-6 mt-12">
-              <li className="flex justify-between items-center text-base font-medium">
-                <div className="flex items-center gap-3">
-                  <div className="w-6 h-6 rounded-full bg-[#b4ec51] flex items-center justify-center text-[#2a4505]">
+            <ul className="flex flex-col gap-8 mt-12 relative">
+              {/* Connecting Line */}
+              <div className="absolute left-[11px] top-4 bottom-4 w-px bg-border-muted/20 z-0"></div>
+              
+              <li className="flex justify-between items-center text-lg font-medium relative z-10">
+                <div className="flex items-center gap-4 bg-white">
+                  <div className="w-6 h-6 rounded-full bg-[#c0ec40] flex items-center justify-center text-[#2a4505] shrink-0">
                     <Check className="w-3.5 h-3.5" strokeWidth={4} />
                   </div>
                   Scope & design
                 </div>
-                <span className="text-text-primary/30 font-mono text-sm">01</span>
+                <span className="text-text-primary/40 font-mono text-sm bg-white pl-2">01</span>
               </li>
-              <li className="flex justify-between items-center text-base font-medium">
-                <div className="flex items-center gap-3">
-                  <div className="w-6 h-6 rounded-full bg-[#b4ec51] flex items-center justify-center text-[#2a4505]">
+              <li className="flex justify-between items-center text-lg font-medium relative z-10">
+                <div className="flex items-center gap-4 bg-white">
+                  <div className="w-6 h-6 rounded-full bg-[#c0ec40] flex items-center justify-center text-[#2a4505] shrink-0">
                     <Check className="w-3.5 h-3.5" strokeWidth={4} />
                   </div>
                   Build & test
                 </div>
-                <span className="text-text-primary/30 font-mono text-sm">02</span>
+                <span className="text-text-primary/40 font-mono text-sm bg-white pl-2">02</span>
               </li>
-              <li className="flex justify-between items-center text-base font-medium">
-                <div className="flex items-center gap-3">
-                  <div className="w-6 h-6 rounded-full bg-[#b4ec51] flex items-center justify-center text-[#2a4505]">
+              <li className="flex justify-between items-center text-lg font-medium relative z-10">
+                <div className="flex items-center gap-4 bg-white">
+                  <div className="w-6 h-6 rounded-full bg-[#c0ec40] flex items-center justify-center text-[#2a4505] shrink-0">
                     <Check className="w-3.5 h-3.5" strokeWidth={4} />
                   </div>
                   Launch & care
                 </div>
-                <span className="text-text-primary/30 font-mono text-sm">03</span>
+                <span className="text-text-primary/40 font-mono text-sm bg-white pl-2">03</span>
               </li>
             </ul>
           </div>
