@@ -16,20 +16,20 @@ export default function TestimonialsGrid() {
           <FadeIn key={i} delay={i * 0.15} y={30}>
             <div className="bg-surface-strong border border-border-muted/10 rounded-[30px] p-6 h-full flex flex-col justify-between">
               <div>
-                <div className="flex gap-1 mb-4 text-text-tertiary">
+                <div className="flex gap-1 mb-4 text-text-primary">
                   ★★★★★
                 </div>
-                <p className="text-text-tertiary/80 font-light text-sm italic mb-6">
+                <p className="text-text-primary/80 font-light text-sm italic mb-6">
                   &quot;This is a placeholder for a testimonial. The design is clean and the development process was smooth.&quot;
                 </p>
               </div>
               <div className="flex items-center gap-3">
-                <div className="w-10 h-10 rounded-full bg-text-tertiary/10 flex items-center justify-center shrink-0">
-                  <span className="text-text-tertiary/40 text-xs">IMG</span>
+                <div className="w-10 h-10 rounded-full bg-text-primary/10 flex items-center justify-center shrink-0">
+                  <span className="text-text-primary/40 text-xs">IMG</span>
                 </div>
                 <div>
-                  <p className="text-text-tertiary font-bold text-sm uppercase">Client {i}</p>
-                  <p className="text-text-tertiary/50 text-xs">CEO, Company</p>
+                  <p className="text-text-primary font-bold text-sm uppercase">Client {i}</p>
+                  <p className="text-text-primary/50 text-xs">CEO, Company</p>
                 </div>
               </div>
             </div>

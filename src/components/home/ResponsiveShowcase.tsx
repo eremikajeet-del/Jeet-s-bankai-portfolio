@@ -18,15 +18,15 @@ export default function ResponsiveShowcase() {
         <FadeIn delay={0.4} y={40} className="w-full md:w-2/3 flex items-end justify-center md:justify-end gap-4 sm:gap-6 relative">
           {/* Desktop */}
           <div className="w-[60%] aspect-video bg-surface-strong border-2 border-border-muted/20 rounded-[12px] sm:rounded-[20px] flex items-center justify-center shadow-2xl relative z-10">
-            <span className="text-text-tertiary/30 text-sm">Desktop</span>
+            <span className="text-text-primary/30 text-sm">Desktop</span>
           </div>
           {/* Tablet */}
           <div className="w-[30%] aspect-[3/4] bg-surface-strong border-2 border-border-muted/20 rounded-[12px] sm:rounded-[20px] flex items-center justify-center shadow-2xl absolute -bottom-4 right-[15%] z-20">
-            <span className="text-text-tertiary/30 text-xs">Tablet</span>
+            <span className="text-text-primary/30 text-xs">Tablet</span>
           </div>
           {/* Mobile */}
           <div className="w-[15%] aspect-[9/19] bg-surface-strong border-2 border-border-muted/20 rounded-[8px] sm:rounded-[16px] flex items-center justify-center shadow-2xl absolute -bottom-8 -right-2 z-30">
-            <span className="text-text-tertiary/30 text-[10px]">Mobile</span>
+            <span className="text-text-primary/30 text-[10px]">Mobile</span>
           </div>
         </FadeIn>
       </div>
